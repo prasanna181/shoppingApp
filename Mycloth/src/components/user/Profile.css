@@ -1,0 +1,36 @@
+.Main_Container{
+padding: 10px;
+height: 500px;
+overflow: inherit;
+    margin: 5px;
+    position: relative;
+    top: 8rem;
+    background: #00416A;
+        /* fallback for old browsers */
+       
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #FCD5CE, #E8E8E4);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.submitButton{
+    border: 1px solid transparent;
+    background:linear-gradient(to right, #FCD5CE, #E8E8E4);
+}
+.submitButton:hover{
+    transform: rotateY('30deg');
+    background:linear-gradient(to right, #E8E8E4, #FCD5CE);
+}
+.displaychangebuttons{
+    display: flex;
+    flex-direction: column;
+    width:120px;
+    justify-content: space-around;
+    /* column-gap: 20px; */
+}
+
+.logo{
+    width:0px;
+    height:0px;
+}
+
+

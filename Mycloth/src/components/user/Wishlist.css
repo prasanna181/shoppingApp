@@ -1,0 +1,12 @@
+.Main_Div{
+padding: 10px;
+    margin: 5px;
+    position: relative;
+    top: 6rem;
+}
+
+.notRefresh{
+color: #fbfbfb;
+    text-align: center;
+    background: linear-gradient(45deg, #540808, transparent);
+}

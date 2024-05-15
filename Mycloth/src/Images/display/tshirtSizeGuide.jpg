@@ -1,0 +1,4255 @@
+<!doctype html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+					<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+					<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+		<script type="text/javascript">var theChampDefaultLang = 'en_US', theChampCloseIconPath = 'https://9thson.com/wp-content/plugins/super-socializer/images/close.png';</script>
+		<script>var theChampSiteUrl = 'https://9thson.com', theChampVerified = 0, theChampEmailPopup = 0, heateorSsMoreSharePopupSearchText = 'Search';</script>
+			<script>var theChampLoadingImgPath = 'https://9thson.com/wp-content/plugins/super-socializer/images/ajax_loader.gif'; var theChampAjaxUrl = 'https://9thson.com/wp-admin/admin-ajax.php'; var theChampRedirectionUrl = 'https://9thson.com/t-shirt-size-guide-chart/'; var theChampRegRedirectionUrl = 'https://9thson.com/t-shirt-size-guide-chart/'; </script>
+				<script> var theChampFBKey = '1432080383816126', theChampSameTabLogin = '1', theChampVerified = 0; var theChampAjaxUrl = 'https://9thson.com/wp-admin/admin-ajax.php'; var theChampPopupTitle = ''; var theChampEmailPopup = 0; var theChampEmailAjaxUrl = 'https://9thson.com/wp-admin/admin-ajax.php'; var theChampEmailPopupTitle = ''; var theChampEmailPopupErrorMsg = ''; var theChampEmailPopupUniqueId = ''; var theChampEmailPopupVerifyMessage = ''; var theChampSteamAuthUrl = ""; var theChampCurrentPageUrl = 'https%3A%2F%2F9thson.com%2Ft-shirt-size-guide-chart%2F';  var heateorMSEnabled = 0, theChampTwitterAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Twitter&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLineAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Line&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLiveAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Live&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampFacebookAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Facebook&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampYahooAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Yahoo&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampGoogleAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Google&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampYoutubeAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Youtube&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampVkontakteAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Vkontakte&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLinkedinAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Linkedin&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampInstagramAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Instagram&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampWordpressAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Wordpress&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampDribbbleAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Dribbble&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampGithubAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Github&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampSpotifyAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Spotify&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampKakaoAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Kakao&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampTwitchAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Twitch&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampRedditAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Reddit&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampDisqusAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Disqus&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampDropboxAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Dropbox&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampFoursquareAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Foursquare&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampAmazonAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Amazon&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampStackoverflowAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Stackoverflow&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampDiscordAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Discord&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampMailruAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Mailru&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampYandexAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Yandex&super_socializer_redirect_to=" + theChampCurrentPageUrl; theChampOdnoklassnikiAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Odnoklassniki&super_socializer_redirect_to=" + theChampCurrentPageUrl;</script>
+			<style type="text/css">
+						.the_champ_button_instagram span.the_champ_svg,a.the_champ_instagram span.the_champ_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+					.the_champ_horizontal_sharing .the_champ_svg,.heateor_ss_standard_follow_icons_container .the_champ_svg{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_horizontal_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_horizontal_sharing span.the_champ_svg:hover,.heateor_ss_standard_follow_icons_container span.the_champ_svg:hover{
+				border-color: transparent;
+	}
+		.the_champ_vertical_sharing span.the_champ_svg,.heateor_ss_floating_follow_icons_container span.the_champ_svg{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_vertical_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_vertical_sharing span.the_champ_svg:hover,.heateor_ss_floating_follow_icons_container span.the_champ_svg:hover{
+						border-color: transparent;
+		}
+	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}</style>
+	
+<!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
+<title>T-Shirt Size Guide/Chart - 9thson</title>
+<meta name="description" content="Men&#039;s Round Neck"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://9thson.com/t-shirt-size-guide-chart/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="T-Shirt Size Guide/Chart - 9thson" />
+<meta property="og:description" content="Men&#039;s Round Neck" />
+<meta property="og:url" content="https://9thson.com/t-shirt-size-guide-chart/" />
+<meta property="og:site_name" content="9thson" />
+<meta property="article:publisher" content="https://www.facebook.com/9thsoncom/" />
+<meta property="og:updated_time" content="2020-08-26T14:20:44+00:00" />
+<meta property="og:image" content="https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2.jpg" />
+<meta property="og:image:secure_url" content="https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2.jpg" />
+<meta property="og:image:width" content="2000" />
+<meta property="og:image:height" content="1000" />
+<meta property="og:image:alt" content="T-Shirt Size Guide/Chart" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2020-08-26T14:20:42+00:00" />
+<meta property="article:modified_time" content="2020-08-26T14:20:44+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="T-Shirt Size Guide/Chart - 9thson" />
+<meta name="twitter:description" content="Men&#039;s Round Neck" />
+<meta name="twitter:site" content="@9thson_com" />
+<meta name="twitter:creator" content="@9thson_com" />
+<meta name="twitter:image" content="https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2.jpg" />
+<meta name="twitter:label1" content="Time to read" />
+<meta name="twitter:data1" content="Less than a minute" />
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="9thson &raquo; Feed" href="https://9thson.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="9thson &raquo; Comments Feed" href="https://9thson.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/9thson.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='floneinstagram-feed-css' href='https://9thson.com/wp-content/plugins/flone-core/css/flone-instagramfeed.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://9thson.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='ce4wp-subscribe-style-inline-css'>
+.wp-block-ce4wp-subscribe{max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .title{margin-bottom:0}.wp-block-ce4wp-subscribe .subTitle{margin-top:0;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer{margin-top:5px;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer .disclaimer-label{margin-left:10px}.wp-block-ce4wp-subscribe .inputBlock{width:100%;margin-bottom:10px}.wp-block-ce4wp-subscribe .inputBlock input{width:100%}.wp-block-ce4wp-subscribe .inputBlock label{display:inline-block}.wp-block-ce4wp-subscribe .submit-button{margin-top:25px;display:block}.wp-block-ce4wp-subscribe .required-text{display:inline-block;margin:0;padding:0;margin-left:0.3em}.wp-block-ce4wp-subscribe .onSubmission{height:0;max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .firstNameSummary .lastNameSummary{text-transform:capitalize}.wp-block-ce4wp-subscribe .ce4wp-inline-notification{display:flex;flex-direction:row;align-items:center;padding:13px 10px;width:100%;height:40px;border-style:solid;border-color:orange;border-width:1px;border-left-width:4px;border-radius:3px;background:rgba(255,133,15,0.1);flex:none;order:0;flex-grow:1;margin:0px 0px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-text{font-style:normal;font-weight:normal;font-size:16px;line-height:20px;display:flex;align-items:center;color:#571600;margin-left:9px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-icon{color:orange}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-arrow{color:#571600;margin-left:auto}.wp-block-ce4wp-subscribe .ce4wp-banner-clickable{cursor:pointer}.ce4wp-link{cursor:pointer}
+
+.no-flex{display:block}.sub-header{margin-bottom:1em}
+
+
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://9thson.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.9.2' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://9thson.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.9.2' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css' href='https://9thson.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' media='all' />
+<link rel='stylesheet' id='yith-wcwl-font-awesome-css' href='https://9thson.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css' href='//9thson.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6' media='all' />
+<link rel='stylesheet' id='yith-wcwl-main-css' href='https://9thson.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.16.0' media='all' />
+<style id='yith-wcwl-main-inline-css'>
+.yith-wcwl-share li a{color: #FFFFFF;}.yith-wcwl-share li a:hover{color: #FFFFFF;}.yith-wcwl-share a.facebook{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.facebook:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.twitter{background: #45AFE2; background-color: #45AFE2;}.yith-wcwl-share a.twitter:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.pinterest{background: #AB2E31; background-color: #AB2E31;}.yith-wcwl-share a.pinterest:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.email{background: #FBB102; background-color: #FBB102;}.yith-wcwl-share a.email:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.whatsapp{background: #00A901; background-color: #00A901;}.yith-wcwl-share a.whatsapp:hover{background: #595A5A; background-color: #595A5A;}
+</style>
+<link rel='stylesheet' id='woolentor-block-common-css' href='https://9thson.com/wp-content/plugins/woolentor-addons/woolentor-blocks/src/assets/css/common-style.css?ver=2.5.2' media='all' />
+<link rel='stylesheet' id='woolentor-block-default-css' href='https://9thson.com/wp-content/plugins/woolentor-addons/woolentor-blocks/src/assets/css/style-index.css?ver=2.5.2' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://9thson.com/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id='extendify-gutenberg-patterns-and-templates-utilities-inline-css'>
+.ext-absolute {
+  position: absolute !important;
+}
+
+.ext-relative {
+  position: relative !important;
+}
+
+.ext-top-base {
+  top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-top-lg {
+  top: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--top-base {
+  top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--top-lg {
+  top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-right-base {
+  right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-right-lg {
+  right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--right-base {
+  right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--right-lg {
+  right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-bottom-base {
+  bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-bottom-lg {
+  bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--bottom-base {
+  bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--bottom-lg {
+  bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-left-base {
+  left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-left-lg {
+  left: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--left-base {
+  left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--left-lg {
+  left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-order-1 {
+  order: 1 !important;
+}
+
+.ext-order-2 {
+  order: 2 !important;
+}
+
+.ext-col-auto {
+  grid-column: auto !important;
+}
+
+.ext-col-span-1 {
+  grid-column: span 1 / span 1 !important;
+}
+
+.ext-col-span-2 {
+  grid-column: span 2 / span 2 !important;
+}
+
+.ext-col-span-3 {
+  grid-column: span 3 / span 3 !important;
+}
+
+.ext-col-span-4 {
+  grid-column: span 4 / span 4 !important;
+}
+
+.ext-col-span-5 {
+  grid-column: span 5 / span 5 !important;
+}
+
+.ext-col-span-6 {
+  grid-column: span 6 / span 6 !important;
+}
+
+.ext-col-span-7 {
+  grid-column: span 7 / span 7 !important;
+}
+
+.ext-col-span-8 {
+  grid-column: span 8 / span 8 !important;
+}
+
+.ext-col-span-9 {
+  grid-column: span 9 / span 9 !important;
+}
+
+.ext-col-span-10 {
+  grid-column: span 10 / span 10 !important;
+}
+
+.ext-col-span-11 {
+  grid-column: span 11 / span 11 !important;
+}
+
+.ext-col-span-12 {
+  grid-column: span 12 / span 12 !important;
+}
+
+.ext-col-span-full {
+  grid-column: 1 / -1 !important;
+}
+
+.ext-col-start-1 {
+  grid-column-start: 1 !important;
+}
+
+.ext-col-start-2 {
+  grid-column-start: 2 !important;
+}
+
+.ext-col-start-3 {
+  grid-column-start: 3 !important;
+}
+
+.ext-col-start-4 {
+  grid-column-start: 4 !important;
+}
+
+.ext-col-start-5 {
+  grid-column-start: 5 !important;
+}
+
+.ext-col-start-6 {
+  grid-column-start: 6 !important;
+}
+
+.ext-col-start-7 {
+  grid-column-start: 7 !important;
+}
+
+.ext-col-start-8 {
+  grid-column-start: 8 !important;
+}
+
+.ext-col-start-9 {
+  grid-column-start: 9 !important;
+}
+
+.ext-col-start-10 {
+  grid-column-start: 10 !important;
+}
+
+.ext-col-start-11 {
+  grid-column-start: 11 !important;
+}
+
+.ext-col-start-12 {
+  grid-column-start: 12 !important;
+}
+
+.ext-col-start-13 {
+  grid-column-start: 13 !important;
+}
+
+.ext-col-start-auto {
+  grid-column-start: auto !important;
+}
+
+.ext-col-end-1 {
+  grid-column-end: 1 !important;
+}
+
+.ext-col-end-2 {
+  grid-column-end: 2 !important;
+}
+
+.ext-col-end-3 {
+  grid-column-end: 3 !important;
+}
+
+.ext-col-end-4 {
+  grid-column-end: 4 !important;
+}
+
+.ext-col-end-5 {
+  grid-column-end: 5 !important;
+}
+
+.ext-col-end-6 {
+  grid-column-end: 6 !important;
+}
+
+.ext-col-end-7 {
+  grid-column-end: 7 !important;
+}
+
+.ext-col-end-8 {
+  grid-column-end: 8 !important;
+}
+
+.ext-col-end-9 {
+  grid-column-end: 9 !important;
+}
+
+.ext-col-end-10 {
+  grid-column-end: 10 !important;
+}
+
+.ext-col-end-11 {
+  grid-column-end: 11 !important;
+}
+
+.ext-col-end-12 {
+  grid-column-end: 12 !important;
+}
+
+.ext-col-end-13 {
+  grid-column-end: 13 !important;
+}
+
+.ext-col-end-auto {
+  grid-column-end: auto !important;
+}
+
+.ext-row-auto {
+  grid-row: auto !important;
+}
+
+.ext-row-span-1 {
+  grid-row: span 1 / span 1 !important;
+}
+
+.ext-row-span-2 {
+  grid-row: span 2 / span 2 !important;
+}
+
+.ext-row-span-3 {
+  grid-row: span 3 / span 3 !important;
+}
+
+.ext-row-span-4 {
+  grid-row: span 4 / span 4 !important;
+}
+
+.ext-row-span-5 {
+  grid-row: span 5 / span 5 !important;
+}
+
+.ext-row-span-6 {
+  grid-row: span 6 / span 6 !important;
+}
+
+.ext-row-span-full {
+  grid-row: 1 / -1 !important;
+}
+
+.ext-row-start-1 {
+  grid-row-start: 1 !important;
+}
+
+.ext-row-start-2 {
+  grid-row-start: 2 !important;
+}
+
+.ext-row-start-3 {
+  grid-row-start: 3 !important;
+}
+
+.ext-row-start-4 {
+  grid-row-start: 4 !important;
+}
+
+.ext-row-start-5 {
+  grid-row-start: 5 !important;
+}
+
+.ext-row-start-6 {
+  grid-row-start: 6 !important;
+}
+
+.ext-row-start-7 {
+  grid-row-start: 7 !important;
+}
+
+.ext-row-start-auto {
+  grid-row-start: auto !important;
+}
+
+.ext-row-end-1 {
+  grid-row-end: 1 !important;
+}
+
+.ext-row-end-2 {
+  grid-row-end: 2 !important;
+}
+
+.ext-row-end-3 {
+  grid-row-end: 3 !important;
+}
+
+.ext-row-end-4 {
+  grid-row-end: 4 !important;
+}
+
+.ext-row-end-5 {
+  grid-row-end: 5 !important;
+}
+
+.ext-row-end-6 {
+  grid-row-end: 6 !important;
+}
+
+.ext-row-end-7 {
+  grid-row-end: 7 !important;
+}
+
+.ext-row-end-auto {
+  grid-row-end: auto !important;
+}
+
+.ext-m-0:not([style*="margin"]) {
+  margin: 0 !important;
+}
+
+.ext-m-auto:not([style*="margin"]) {
+  margin: auto !important;
+}
+
+.ext-m-base:not([style*="margin"]) {
+  margin: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-m-lg:not([style*="margin"]) {
+  margin: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--m-base:not([style*="margin"]) {
+  margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--m-lg:not([style*="margin"]) {
+  margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mx-0:not([style*="margin"]) {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.ext-mx-auto:not([style*="margin"]) {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.ext-mx-base:not([style*="margin"]) {
+  margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mx-lg:not([style*="margin"]) {
+  margin-left: var(--extendify--spacing--large, 3rem) !important;
+  margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mx-base:not([style*="margin"]) {
+  margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mx-lg:not([style*="margin"]) {
+  margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-my-0:not([style*="margin"]) {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.ext-my-auto:not([style*="margin"]) {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
+.ext-my-base:not([style*="margin"]) {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-my-lg:not([style*="margin"]) {
+  margin-top: var(--extendify--spacing--large, 3rem) !important;
+  margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--my-base:not([style*="margin"]) {
+  margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--my-lg:not([style*="margin"]) {
+  margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mt-0:not([style*="margin"]) {
+  margin-top: 0 !important;
+}
+
+.ext-mt-auto:not([style*="margin"]) {
+  margin-top: auto !important;
+}
+
+.ext-mt-base:not([style*="margin"]) {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mt-lg:not([style*="margin"]) {
+  margin-top: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mt-base:not([style*="margin"]) {
+  margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mt-lg:not([style*="margin"]) {
+  margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mr-0:not([style*="margin"]) {
+  margin-right: 0 !important;
+}
+
+.ext-mr-auto:not([style*="margin"]) {
+  margin-right: auto !important;
+}
+
+.ext-mr-base:not([style*="margin"]) {
+  margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mr-lg:not([style*="margin"]) {
+  margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mr-base:not([style*="margin"]) {
+  margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mr-lg:not([style*="margin"]) {
+  margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mb-0:not([style*="margin"]) {
+  margin-bottom: 0 !important;
+}
+
+.ext-mb-auto:not([style*="margin"]) {
+  margin-bottom: auto !important;
+}
+
+.ext-mb-base:not([style*="margin"]) {
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mb-lg:not([style*="margin"]) {
+  margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mb-base:not([style*="margin"]) {
+  margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mb-lg:not([style*="margin"]) {
+  margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-ml-0:not([style*="margin"]) {
+  margin-left: 0 !important;
+}
+
+.ext-ml-auto:not([style*="margin"]) {
+  margin-left: auto !important;
+}
+
+.ext-ml-base:not([style*="margin"]) {
+  margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-ml-lg:not([style*="margin"]) {
+  margin-left: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--ml-base:not([style*="margin"]) {
+  margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--ml-lg:not([style*="margin"]) {
+  margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-block {
+  display: block !important;
+}
+
+.ext-inline-block {
+  display: inline-block !important;
+}
+
+.ext-inline {
+  display: inline !important;
+}
+
+.ext-flex {
+  display: flex !important;
+}
+
+.ext-inline-flex {
+  display: inline-flex !important;
+}
+
+.ext-grid {
+  display: grid !important;
+}
+
+.ext-inline-grid {
+  display: inline-grid !important;
+}
+
+.ext-hidden {
+  display: none !important;
+}
+
+.ext-w-auto {
+  width: auto !important;
+}
+
+.ext-w-full {
+  width: 100% !important;
+}
+
+.ext-max-w-full {
+  max-width: 100% !important;
+}
+
+.ext-flex-1 {
+  flex: 1 1 0% !important;
+}
+
+.ext-flex-auto {
+  flex: 1 1 auto !important;
+}
+
+.ext-flex-initial {
+  flex: 0 1 auto !important;
+}
+
+.ext-flex-none {
+  flex: none !important;
+}
+
+.ext-flex-shrink-0 {
+  flex-shrink: 0 !important;
+}
+
+.ext-flex-shrink {
+  flex-shrink: 1 !important;
+}
+
+.ext-flex-grow-0 {
+  flex-grow: 0 !important;
+}
+
+.ext-flex-grow {
+  flex-grow: 1 !important;
+}
+
+.ext-list-none {
+  list-style-type: none !important;
+}
+
+.ext-grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-7 {
+  grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-8 {
+  grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-9 {
+  grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-10 {
+  grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-11 {
+  grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-none {
+  grid-template-columns: none !important;
+}
+
+.ext-grid-rows-1 {
+  grid-template-rows: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-2 {
+  grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-3 {
+  grid-template-rows: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-4 {
+  grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-5 {
+  grid-template-rows: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-6 {
+  grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-none {
+  grid-template-rows: none !important;
+}
+
+.ext-flex-row {
+  flex-direction: row !important;
+}
+
+.ext-flex-row-reverse {
+  flex-direction: row-reverse !important;
+}
+
+.ext-flex-col {
+  flex-direction: column !important;
+}
+
+.ext-flex-col-reverse {
+  flex-direction: column-reverse !important;
+}
+
+.ext-flex-wrap {
+  flex-wrap: wrap !important;
+}
+
+.ext-flex-wrap-reverse {
+  flex-wrap: wrap-reverse !important;
+}
+
+.ext-flex-nowrap {
+  flex-wrap: nowrap !important;
+}
+
+.ext-items-start {
+  align-items: flex-start !important;
+}
+
+.ext-items-end {
+  align-items: flex-end !important;
+}
+
+.ext-items-center {
+  align-items: center !important;
+}
+
+.ext-items-baseline {
+  align-items: baseline !important;
+}
+
+.ext-items-stretch {
+  align-items: stretch !important;
+}
+
+.ext-justify-start {
+  justify-content: flex-start !important;
+}
+
+.ext-justify-end {
+  justify-content: flex-end !important;
+}
+
+.ext-justify-center {
+  justify-content: center !important;
+}
+
+.ext-justify-between {
+  justify-content: space-between !important;
+}
+
+.ext-justify-around {
+  justify-content: space-around !important;
+}
+
+.ext-justify-evenly {
+  justify-content: space-evenly !important;
+}
+
+.ext-justify-items-start {
+  justify-items: start !important;
+}
+
+.ext-justify-items-end {
+  justify-items: end !important;
+}
+
+.ext-justify-items-center {
+  justify-items: center !important;
+}
+
+.ext-justify-items-stretch {
+  justify-items: stretch !important;
+}
+
+.ext-gap-0 {
+  gap: 0 !important;
+}
+
+.ext-gap-base {
+  gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-gap-lg {
+  gap: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-gap-x-0 {
+  -moz-column-gap: 0 !important;
+       column-gap: 0 !important;
+}
+
+.ext-gap-x-base {
+  -moz-column-gap: var(--wp--style--block-gap, 1.75rem) !important;
+       column-gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-gap-x-lg {
+  -moz-column-gap: var(--extendify--spacing--large, 3rem) !important;
+       column-gap: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-gap-y-0 {
+  row-gap: 0 !important;
+}
+
+.ext-gap-y-base {
+  row-gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-gap-y-lg {
+  row-gap: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-justify-self-auto {
+  justify-self: auto !important;
+}
+
+.ext-justify-self-start {
+  justify-self: start !important;
+}
+
+.ext-justify-self-end {
+  justify-self: end !important;
+}
+
+.ext-justify-self-center {
+  justify-self: center !important;
+}
+
+.ext-justify-self-stretch {
+  justify-self: stretch !important;
+}
+
+.ext-rounded-none {
+  border-radius: 0px !important;
+}
+
+.ext-rounded-full {
+  border-radius: 9999px !important;
+}
+
+.ext-rounded-t-none {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
+
+.ext-rounded-t-full {
+  border-top-left-radius: 9999px !important;
+  border-top-right-radius: 9999px !important;
+}
+
+.ext-rounded-r-none {
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+
+.ext-rounded-r-full {
+  border-top-right-radius: 9999px !important;
+  border-bottom-right-radius: 9999px !important;
+}
+
+.ext-rounded-b-none {
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.ext-rounded-b-full {
+  border-bottom-right-radius: 9999px !important;
+  border-bottom-left-radius: 9999px !important;
+}
+
+.ext-rounded-l-none {
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.ext-rounded-l-full {
+  border-top-left-radius: 9999px !important;
+  border-bottom-left-radius: 9999px !important;
+}
+
+.ext-rounded-tl-none {
+  border-top-left-radius: 0px !important;
+}
+
+.ext-rounded-tl-full {
+  border-top-left-radius: 9999px !important;
+}
+
+.ext-rounded-tr-none {
+  border-top-right-radius: 0px !important;
+}
+
+.ext-rounded-tr-full {
+  border-top-right-radius: 9999px !important;
+}
+
+.ext-rounded-br-none {
+  border-bottom-right-radius: 0px !important;
+}
+
+.ext-rounded-br-full {
+  border-bottom-right-radius: 9999px !important;
+}
+
+.ext-rounded-bl-none {
+  border-bottom-left-radius: 0px !important;
+}
+
+.ext-rounded-bl-full {
+  border-bottom-left-radius: 9999px !important;
+}
+
+.ext-border-0 {
+  border-width: 0px !important;
+}
+
+.ext-border-t-0 {
+  border-top-width: 0px !important;
+}
+
+.ext-border-r-0 {
+  border-right-width: 0px !important;
+}
+
+.ext-border-b-0 {
+  border-bottom-width: 0px !important;
+}
+
+.ext-border-l-0 {
+  border-left-width: 0px !important;
+}
+
+.ext-p-0:not([style*="padding"]) {
+  padding: 0 !important;
+}
+
+.ext-p-base:not([style*="padding"]) {
+  padding: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-p-lg:not([style*="padding"]) {
+  padding: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-px-0:not([style*="padding"]) {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.ext-px-base:not([style*="padding"]) {
+  padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-px-lg:not([style*="padding"]) {
+  padding-left: var(--extendify--spacing--large, 3rem) !important;
+  padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-py-0:not([style*="padding"]) {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.ext-py-base:not([style*="padding"]) {
+  padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+  padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-py-lg:not([style*="padding"]) {
+  padding-top: var(--extendify--spacing--large, 3rem) !important;
+  padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pt-0:not([style*="padding"]) {
+  padding-top: 0 !important;
+}
+
+.ext-pt-base:not([style*="padding"]) {
+  padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pt-lg:not([style*="padding"]) {
+  padding-top: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pr-0:not([style*="padding"]) {
+  padding-right: 0 !important;
+}
+
+.ext-pr-base:not([style*="padding"]) {
+  padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pr-lg:not([style*="padding"]) {
+  padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pb-0:not([style*="padding"]) {
+  padding-bottom: 0 !important;
+}
+
+.ext-pb-base:not([style*="padding"]) {
+  padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pb-lg:not([style*="padding"]) {
+  padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pl-0:not([style*="padding"]) {
+  padding-left: 0 !important;
+}
+
+.ext-pl-base:not([style*="padding"]) {
+  padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pl-lg:not([style*="padding"]) {
+  padding-left: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-text-left {
+  text-align: left !important;
+}
+
+.ext-text-center {
+  text-align: center !important;
+}
+
+.ext-text-right {
+  text-align: right !important;
+}
+
+.ext-leading-none {
+  line-height: 1 !important;
+}
+
+.ext-leading-tight {
+  line-height: 1.25 !important;
+}
+
+.ext-leading-snug {
+  line-height: 1.375 !important;
+}
+
+.ext-leading-normal {
+  line-height: 1.5 !important;
+}
+
+.ext-leading-relaxed {
+  line-height: 1.625 !important;
+}
+
+.ext-leading-loose {
+  line-height: 2 !important;
+}
+
+.ext-aspect-square img {
+  aspect-ratio: 1 / 1 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-landscape img {
+  aspect-ratio: 4 / 3 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-landscape-wide img {
+  aspect-ratio: 16 / 9 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-portrait img {
+  aspect-ratio: 3 / 4 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-square .components-resizable-box__container,
+.ext-aspect-landscape .components-resizable-box__container,
+.ext-aspect-landscape-wide .components-resizable-box__container,
+.ext-aspect-portrait .components-resizable-box__container {
+  height: auto !important;
+}
+
+.clip-path--rhombus img {
+  -webkit-clip-path: polygon(15% 6%, 80% 29%, 84% 93%, 23% 69%) !important;
+          clip-path: polygon(15% 6%, 80% 29%, 84% 93%, 23% 69%) !important;
+}
+
+.clip-path--diamond img {
+  -webkit-clip-path: polygon(5% 29%, 60% 2%, 91% 64%, 36% 89%) !important;
+          clip-path: polygon(5% 29%, 60% 2%, 91% 64%, 36% 89%) !important;
+}
+
+.clip-path--rhombus-alt img {
+  -webkit-clip-path: polygon(14% 9%, 85% 24%, 91% 89%, 19% 76%) !important;
+          clip-path: polygon(14% 9%, 85% 24%, 91% 89%, 19% 76%) !important;
+}
+
+/*
+The .ext utility is a top-level class that we use to target contents within our patterns.
+We use it here to ensure columns blocks display well across themes.
+*/
+
+.wp-block-columns[class*="fullwidth-cols"] {
+  /* no suggestion */
+  margin-bottom: unset !important;
+}
+
+.wp-block-column.editor\:pointer-events-none {
+  /* no suggestion */
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.is-root-container.block-editor-block-list__layout
+    > [data-align="full"]:not(:first-of-type)
+    > .wp-block-column.editor\:pointer-events-none,
+.is-root-container.block-editor-block-list__layout
+    > [data-align="wide"]
+    > .wp-block-column.editor\:pointer-events-none {
+  /* no suggestion */
+  margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+
+.is-root-container.block-editor-block-list__layout
+    > [data-align="full"]:not(:first-of-type)
+    > .ext-my-0,
+.is-root-container.block-editor-block-list__layout
+    > [data-align="wide"]
+    > .ext-my-0:not([style*="margin"]) {
+  /* no suggestion */
+  margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+
+/* Some popular themes use padding instead of core margin for columns; remove it */
+
+.ext .wp-block-columns .wp-block-column[style*="padding"] {
+  /* no suggestion */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Some popular themes add double spacing between columns; remove it */
+
+.ext
+    .wp-block-columns
+    + .wp-block-columns:not([class*="mt-"]):not([class*="my-"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column:first-child,
+[class*="fullwidth-cols"] .wp-block-group:first-child {
+  /* no suggestion */
+}
+
+[class*="fullwidth-cols"] .wp-block-column:first-child, [class*="fullwidth-cols"] .wp-block-group:first-child {
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column:last-child,
+[class*="fullwidth-cols"] .wp-block-group:last-child {
+  /* no suggestion */
+}
+
+[class*="fullwidth-cols"] .wp-block-column:last-child, [class*="fullwidth-cols"] .wp-block-group:last-child {
+  margin-bottom: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column:first-child > * {
+  /* no suggestion */
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column > *:first-child {
+  /* no suggestion */
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column > *:last-child {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+.ext .is-not-stacked-on-mobile .wp-block-column {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+/* Add base margin bottom to all columns */
+
+.wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+    > .wp-block-column:not(:last-child) {
+  /* no suggestion */
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+@media (min-width: 782px) {
+  .wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not(:last-child) {
+    /* no suggestion */
+    margin-bottom: 0 !important;
+  }
+}
+
+/* Remove margin bottom from "not-stacked" columns */
+
+.wp-block-columns[class*="fullwidth-cols"].is-not-stacked-on-mobile
+    > .wp-block-column {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+@media (min-width: 600px) and (max-width: 781px) {
+  .wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:nth-child(even) {
+    /* no suggestion */
+    margin-left: var(--wp--style--block-gap, 2em) !important;
+  }
+}
+
+/*
+    The `tablet:fullwidth-cols` and `desktop:fullwidth-cols` utilities are used
+    to counter the core/columns responsive for at our breakpoints.
+*/
+
+@media (max-width: 781px) {
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile) {
+    flex-wrap: wrap !important;
+  }
+
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    margin-left: 0 !important;
+  }
+
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not([style*="margin"]) {
+    /* no suggestion */
+    margin-left: 0 !important;
+  }
+
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    flex-basis: 100% !important; /* Required to negate core/columns flex-basis */
+  }
+}
+
+@media (max-width: 1079px) {
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile) {
+    flex-wrap: wrap !important;
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    margin-left: 0 !important;
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not([style*="margin"]) {
+    /* no suggestion */
+    margin-left: 0 !important;
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    flex-basis: 100% !important; /* Required to negate core/columns flex-basis */
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not(:last-child) {
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+}
+
+.direction-rtl {
+  direction: rtl !important;
+}
+
+.direction-ltr {
+  direction: ltr !important;
+}
+
+/* Use "is-style-" prefix to support adding this style to the core/list block */
+
+.is-style-inline-list {
+  padding-left: 0 !important;
+}
+
+.is-style-inline-list li {
+  /* no suggestion */
+  list-style-type: none !important;
+}
+
+@media (min-width: 782px) {
+  .is-style-inline-list li {
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+    display: inline !important;
+  }
+}
+
+.is-style-inline-list li:first-child {
+  /* no suggestion */
+}
+
+@media (min-width: 782px) {
+  .is-style-inline-list li:first-child {
+    margin-left: 0 !important;
+  }
+}
+
+.is-style-inline-list li:last-child {
+  /* no suggestion */
+}
+
+@media (min-width: 782px) {
+  .is-style-inline-list li:last-child {
+    margin-right: 0 !important;
+  }
+}
+
+.bring-to-front {
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+.text-stroke {
+  -webkit-text-stroke-width: var(
+        --wp--custom--typography--text-stroke-width,
+        2px
+    ) !important;
+  -webkit-text-stroke-color: var(--wp--preset--color--background) !important;
+}
+
+.text-stroke--primary {
+  -webkit-text-stroke-width: var(
+        --wp--custom--typography--text-stroke-width,
+        2px
+    ) !important;
+  -webkit-text-stroke-color: var(--wp--preset--color--primary) !important;
+}
+
+.text-stroke--secondary {
+  -webkit-text-stroke-width: var(
+        --wp--custom--typography--text-stroke-width,
+        2px
+    ) !important;
+  -webkit-text-stroke-color: var(--wp--preset--color--secondary) !important;
+}
+
+.editor\:no-caption .block-editor-rich-text__editable {
+  display: none !important;
+}
+
+.editor\:no-inserter > .block-list-appender,
+.editor\:no-inserter .wp-block-group__inner-container > .block-list-appender {
+  display: none !important;
+}
+
+.editor\:no-inserter .wp-block-cover__inner-container > .block-list-appender {
+  display: none !important;
+}
+
+.editor\:no-inserter .wp-block-column:not(.is-selected) > .block-list-appender {
+  display: none !important;
+}
+
+.editor\:no-resize .components-resizable-box__handle::after,
+.editor\:no-resize .components-resizable-box__side-handle::before,
+.editor\:no-resize .components-resizable-box__handle {
+  display: none !important;
+  pointer-events: none !important;
+}
+
+.editor\:no-resize .components-resizable-box__container {
+  display: block !important;
+}
+
+.editor\:pointer-events-none {
+  pointer-events: none !important;
+}
+
+.is-style-angled {
+  /* no suggestion */
+  align-items: center !important;
+  justify-content: flex-end !important;
+}
+
+.ext .is-style-angled > [class*="_inner-container"] {
+  align-items: center !important;
+}
+
+.is-style-angled .wp-block-cover__image-background,
+.is-style-angled .wp-block-cover__video-background {
+  /* no suggestion */
+  -webkit-clip-path: polygon(0 0, 30% 0%, 50% 100%, 0% 100%) !important;
+          clip-path: polygon(0 0, 30% 0%, 50% 100%, 0% 100%) !important;
+  z-index: 1 !important;
+}
+
+@media (min-width: 782px) {
+  .is-style-angled .wp-block-cover__image-background,
+    .is-style-angled .wp-block-cover__video-background {
+    /* no suggestion */
+    -webkit-clip-path: polygon(0 0, 55% 0%, 65% 100%, 0% 100%) !important;
+            clip-path: polygon(0 0, 55% 0%, 65% 100%, 0% 100%) !important;
+  }
+}
+
+.has-foreground-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--foreground, #000) !important;
+}
+
+.has-foreground-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--foreground, #000) !important;
+}
+
+.has-background-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--background, #fff) !important;
+}
+
+.has-background-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--background, #fff) !important;
+}
+
+.has-primary-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--primary, #4b5563) !important;
+}
+
+.has-primary-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--primary, #4b5563) !important;
+}
+
+.has-secondary-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--secondary, #9ca3af) !important;
+}
+
+.has-secondary-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--secondary, #9ca3af) !important;
+}
+
+/* Ensure themes that target specific elements use the right colors */
+
+.ext.has-text-color p,
+.ext.has-text-color h1,
+.ext.has-text-color h2,
+.ext.has-text-color h3,
+.ext.has-text-color h4,
+.ext.has-text-color h5,
+.ext.has-text-color h6 {
+  /* no suggestion */
+  color: currentColor !important;
+}
+
+.has-white-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--white, #fff) !important;
+}
+
+.has-black-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--black, #000) !important;
+}
+
+.has-ext-foreground-background-color {
+  /* no suggestion */
+  background-color: var(
+        --wp--preset--color--foreground,
+        var(--wp--preset--color--black, #000)
+    ) !important;
+}
+
+.has-ext-primary-background-color {
+  /* no suggestion */
+  background-color: var(
+        --wp--preset--color--primary,
+        var(--wp--preset--color--cyan-bluish-gray, #000)
+    ) !important;
+}
+
+/* Fix button borders with specified background colors */
+
+.wp-block-button__link.has-black-background-color {
+  /* no suggestion */
+  border-color: var(--wp--preset--color--black, #000) !important;
+}
+
+.wp-block-button__link.has-white-background-color {
+  /* no suggestion */
+  border-color: var(--wp--preset--color--white, #fff) !important;
+}
+
+.has-ext-small-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-small) !important;
+}
+
+.has-ext-medium-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-medium) !important;
+}
+
+.has-ext-large-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-large) !important;
+  line-height: 1.2 !important;
+}
+
+.has-ext-x-large-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-x-large) !important;
+  line-height: 1 !important;
+}
+
+.has-ext-xx-large-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-xx-large) !important;
+  line-height: 1 !important;
+}
+
+/* Line height */
+
+.has-ext-x-large-font-size:not([style*="line-height"]) {
+  /* no suggestion */
+  line-height: 1.1 !important;
+}
+
+.has-ext-xx-large-font-size:not([style*="line-height"]) {
+  /* no suggestion */
+  line-height: 1.1 !important;
+}
+
+.ext .wp-block-group > * {
+  /* Line height */
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.ext .wp-block-group > * + * {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-bottom: 0 !important;
+}
+
+.ext h2 {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.has-ext-x-large-font-size + p,
+.has-ext-x-large-font-size + h3 {
+  margin-top: 0.5rem !important;
+}
+
+.ext .wp-block-buttons > .wp-block-button.wp-block-button__width-25 {
+  width: calc(25% - var(--wp--style--block-gap, 0.5em) * 0.75) !important;
+  min-width: 12rem !important;
+}
+
+/* Classic themes use an inner [class*="_inner-container"] that our utilities cannot directly target, so we need to do so with a few */
+
+.ext .ext-grid > [class*="_inner-container"] {
+  /* no suggestion */
+  display: grid !important;
+}
+
+/* Unhinge grid for container blocks in classic themes, and < 5.9 */
+
+.ext > [class*="_inner-container"] > .ext-grid:not([class*="columns"]),
+.ext
+    > [class*="_inner-container"]
+    > .wp-block
+    > .ext-grid:not([class*="columns"]) {
+  /* no suggestion */
+  display: initial !important;
+}
+
+/* Grid Columns */
+
+.ext .ext-grid-cols-1 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-2 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-3 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-4 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-5 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-6 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-7 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-8 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-9 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-10 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-11 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-12 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-13 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(13, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-none > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: none !important;
+}
+
+/* Grid Rows */
+
+.ext .ext-grid-rows-1 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-2 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-3 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-4 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-5 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-6 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-none > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: none !important;
+}
+
+/* Align */
+
+.ext .ext-items-start > [class*="_inner-container"] {
+  align-items: flex-start !important;
+}
+
+.ext .ext-items-end > [class*="_inner-container"] {
+  align-items: flex-end !important;
+}
+
+.ext .ext-items-center > [class*="_inner-container"] {
+  align-items: center !important;
+}
+
+.ext .ext-items-baseline > [class*="_inner-container"] {
+  align-items: baseline !important;
+}
+
+.ext .ext-items-stretch > [class*="_inner-container"] {
+  align-items: stretch !important;
+}
+
+.ext.wp-block-group > *:last-child {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+/* For <5.9 */
+
+.ext .wp-block-group__inner-container {
+  /* no suggestion */
+  padding: 0 !important;
+}
+
+.ext.has-background {
+  /* no suggestion */
+  padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+/* Fallback for classic theme group blocks */
+
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"],
+.ext
+    *[class*="inner-container"]
+    > [data-align="wide"]
+    *[class*="inner-container"] {
+  /* no suggestion */
+  max-width: var(--responsive--alignwide-width, 120rem) !important;
+}
+
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"] > *,
+.ext
+    *[class*="inner-container"]
+    > [data-align="wide"]
+    *[class*="inner-container"]
+    > * {
+  /* no suggestion */
+}
+
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"] > *, .ext
+    *[class*="inner-container"]
+    > [data-align="wide"]
+    *[class*="inner-container"]
+    > * {
+  max-width: 100% !important;
+}
+
+/* Ensure image block display is standardized */
+
+.ext .wp-block-image {
+  /* no suggestion */
+  position: relative !important;
+  text-align: center !important;
+}
+
+.ext .wp-block-image img {
+  /* no suggestion */
+  display: inline-block !important;
+  vertical-align: middle !important;
+}
+
+body {
+  /* no suggestion */
+  /* We need to abstract this out of tailwind.config because clamp doesnt translate with negative margins */
+  --extendify--spacing--large: var(
+        --wp--custom--spacing--large,
+        clamp(2em, 8vw, 8em)
+    ) !important;
+  /* Add pattern preset font sizes */
+  --wp--preset--font-size--ext-small: 1rem !important;
+  --wp--preset--font-size--ext-medium: 1.125rem !important;
+  --wp--preset--font-size--ext-large: clamp(1.65rem, 3.5vw, 2.15rem) !important;
+  --wp--preset--font-size--ext-x-large: clamp(3rem, 6vw, 4.75rem) !important;
+  --wp--preset--font-size--ext-xx-large: clamp(3.25rem, 7.5vw, 5.75rem) !important;
+  /* Fallbacks for pre 5.9 themes */
+  --wp--preset--color--black: #000 !important;
+  --wp--preset--color--white: #fff !important;
+}
+
+.ext * {
+  box-sizing: border-box !important;
+}
+
+/* Astra: Remove spacer block visuals in the library */
+
+.block-editor-block-preview__content-iframe
+    .ext
+    [data-type="core/spacer"]
+    .components-resizable-box__container {
+  /* no suggestion */
+  background: transparent !important;
+}
+
+.block-editor-block-preview__content-iframe
+    .ext
+    [data-type="core/spacer"]
+    .block-library-spacer__resize-container::before {
+  /* no suggestion */
+  display: none !important;
+}
+
+/* Twenty Twenty adds a lot of margin automatically to blocks. We only want our own margin added to our patterns. */
+
+.ext .wp-block-group__inner-container figure.wp-block-gallery.alignfull {
+  /* no suggestion */
+  margin-top: unset !important;
+  margin-bottom: unset !important;
+}
+
+/* Ensure no funky business is assigned to alignwide */
+
+.ext .alignwide {
+  /* no suggestion */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Negate blockGap being inappropriately assigned in the editor */
+
+.is-root-container.block-editor-block-list__layout
+    > [data-align="full"]:not(:first-of-type)
+    > .ext-my-0,
+.is-root-container.block-editor-block-list__layout
+    > [data-align="wide"]
+    > .ext-my-0:not([style*="margin"]) {
+  /* no suggestion */
+  margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+
+/* Ensure vh content in previews looks taller */
+
+.block-editor-block-preview__content-iframe .preview\:min-h-50 {
+  /* no suggestion */
+  min-height: 50vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-60 {
+  /* no suggestion */
+  min-height: 60vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-70 {
+  /* no suggestion */
+  min-height: 70vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-80 {
+  /* no suggestion */
+  min-height: 80vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-100 {
+  /* no suggestion */
+  min-height: 100vw !important;
+}
+
+/*  Removes excess margin when applied to the alignfull parent div in Block Themes */
+
+.ext-mr-0.alignfull:not([style*="margin"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-right: 0 !important;
+}
+
+.ext-ml-0:not([style*="margin"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-left: 0 !important;
+}
+
+/*  Ensures fullwidth blocks display properly in the editor when margin is zeroed out */
+
+.is-root-container
+    .wp-block[data-align="full"]
+    > .ext-mx-0:not([style*="margin"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-right: calc(1 * var(--wp--custom--spacing--outer, 0)) !important;
+  margin-left: calc(1 * var(--wp--custom--spacing--outer, 0)) !important;
+  overflow: hidden !important;
+  width: unset !important;
+}
+
+@media (min-width: 782px) {
+  .tablet\:ext-absolute {
+    position: absolute !important;
+  }
+
+  .tablet\:ext-relative {
+    position: relative !important;
+  }
+
+  .tablet\:ext-top-base {
+    top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-top-lg {
+    top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--top-base {
+    top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--top-lg {
+    top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-right-base {
+    right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-right-lg {
+    right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--right-base {
+    right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--right-lg {
+    right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-bottom-base {
+    bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-bottom-lg {
+    bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--bottom-base {
+    bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--bottom-lg {
+    bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-left-base {
+    left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-left-lg {
+    left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--left-base {
+    left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--left-lg {
+    left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-order-1 {
+    order: 1 !important;
+  }
+
+  .tablet\:ext-order-2 {
+    order: 2 !important;
+  }
+
+  .tablet\:ext-m-0:not([style*="margin"]) {
+    margin: 0 !important;
+  }
+
+  .tablet\:ext-m-auto:not([style*="margin"]) {
+    margin: auto !important;
+  }
+
+  .tablet\:ext-m-base:not([style*="margin"]) {
+    margin: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-m-lg:not([style*="margin"]) {
+    margin: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--m-base:not([style*="margin"]) {
+    margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--m-lg:not([style*="margin"]) {
+    margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mx-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .tablet\:ext-mx-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .tablet\:ext-mx-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mx-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mx-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mx-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-my-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .tablet\:ext-my-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+  }
+
+  .tablet\:ext-my-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-my-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--my-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--my-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mt-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+  }
+
+  .tablet\:ext-mt-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+  }
+
+  .tablet\:ext-mt-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mt-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mt-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mt-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mr-0:not([style*="margin"]) {
+    margin-right: 0 !important;
+  }
+
+  .tablet\:ext-mr-auto:not([style*="margin"]) {
+    margin-right: auto !important;
+  }
+
+  .tablet\:ext-mr-base:not([style*="margin"]) {
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mr-lg:not([style*="margin"]) {
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mr-base:not([style*="margin"]) {
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mr-lg:not([style*="margin"]) {
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mb-0:not([style*="margin"]) {
+    margin-bottom: 0 !important;
+  }
+
+  .tablet\:ext-mb-auto:not([style*="margin"]) {
+    margin-bottom: auto !important;
+  }
+
+  .tablet\:ext-mb-base:not([style*="margin"]) {
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mb-lg:not([style*="margin"]) {
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mb-base:not([style*="margin"]) {
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mb-lg:not([style*="margin"]) {
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-ml-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+  }
+
+  .tablet\:ext-ml-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+  }
+
+  .tablet\:ext-ml-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-ml-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--ml-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--ml-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-block {
+    display: block !important;
+  }
+
+  .tablet\:ext-inline-block {
+    display: inline-block !important;
+  }
+
+  .tablet\:ext-inline {
+    display: inline !important;
+  }
+
+  .tablet\:ext-flex {
+    display: flex !important;
+  }
+
+  .tablet\:ext-inline-flex {
+    display: inline-flex !important;
+  }
+
+  .tablet\:ext-grid {
+    display: grid !important;
+  }
+
+  .tablet\:ext-inline-grid {
+    display: inline-grid !important;
+  }
+
+  .tablet\:ext-hidden {
+    display: none !important;
+  }
+
+  .tablet\:ext-w-auto {
+    width: auto !important;
+  }
+
+  .tablet\:ext-w-full {
+    width: 100% !important;
+  }
+
+  .tablet\:ext-max-w-full {
+    max-width: 100% !important;
+  }
+
+  .tablet\:ext-flex-1 {
+    flex: 1 1 0% !important;
+  }
+
+  .tablet\:ext-flex-auto {
+    flex: 1 1 auto !important;
+  }
+
+  .tablet\:ext-flex-initial {
+    flex: 0 1 auto !important;
+  }
+
+  .tablet\:ext-flex-none {
+    flex: none !important;
+  }
+
+  .tablet\:ext-flex-shrink-0 {
+    flex-shrink: 0 !important;
+  }
+
+  .tablet\:ext-flex-shrink {
+    flex-shrink: 1 !important;
+  }
+
+  .tablet\:ext-flex-grow-0 {
+    flex-grow: 0 !important;
+  }
+
+  .tablet\:ext-flex-grow {
+    flex-grow: 1 !important;
+  }
+
+  .tablet\:ext-list-none {
+    list-style-type: none !important;
+  }
+
+  .tablet\:ext-grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-none {
+    grid-template-columns: none !important;
+  }
+
+  .tablet\:ext-flex-row {
+    flex-direction: row !important;
+  }
+
+  .tablet\:ext-flex-row-reverse {
+    flex-direction: row-reverse !important;
+  }
+
+  .tablet\:ext-flex-col {
+    flex-direction: column !important;
+  }
+
+  .tablet\:ext-flex-col-reverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .tablet\:ext-flex-wrap {
+    flex-wrap: wrap !important;
+  }
+
+  .tablet\:ext-flex-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+  }
+
+  .tablet\:ext-flex-nowrap {
+    flex-wrap: nowrap !important;
+  }
+
+  .tablet\:ext-items-start {
+    align-items: flex-start !important;
+  }
+
+  .tablet\:ext-items-end {
+    align-items: flex-end !important;
+  }
+
+  .tablet\:ext-items-center {
+    align-items: center !important;
+  }
+
+  .tablet\:ext-items-baseline {
+    align-items: baseline !important;
+  }
+
+  .tablet\:ext-items-stretch {
+    align-items: stretch !important;
+  }
+
+  .tablet\:ext-justify-start {
+    justify-content: flex-start !important;
+  }
+
+  .tablet\:ext-justify-end {
+    justify-content: flex-end !important;
+  }
+
+  .tablet\:ext-justify-center {
+    justify-content: center !important;
+  }
+
+  .tablet\:ext-justify-between {
+    justify-content: space-between !important;
+  }
+
+  .tablet\:ext-justify-around {
+    justify-content: space-around !important;
+  }
+
+  .tablet\:ext-justify-evenly {
+    justify-content: space-evenly !important;
+  }
+
+  .tablet\:ext-justify-items-start {
+    justify-items: start !important;
+  }
+
+  .tablet\:ext-justify-items-end {
+    justify-items: end !important;
+  }
+
+  .tablet\:ext-justify-items-center {
+    justify-items: center !important;
+  }
+
+  .tablet\:ext-justify-items-stretch {
+    justify-items: stretch !important;
+  }
+
+  .tablet\:ext-justify-self-auto {
+    justify-self: auto !important;
+  }
+
+  .tablet\:ext-justify-self-start {
+    justify-self: start !important;
+  }
+
+  .tablet\:ext-justify-self-end {
+    justify-self: end !important;
+  }
+
+  .tablet\:ext-justify-self-center {
+    justify-self: center !important;
+  }
+
+  .tablet\:ext-justify-self-stretch {
+    justify-self: stretch !important;
+  }
+
+  .tablet\:ext-p-0:not([style*="padding"]) {
+    padding: 0 !important;
+  }
+
+  .tablet\:ext-p-base:not([style*="padding"]) {
+    padding: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-p-lg:not([style*="padding"]) {
+    padding: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-px-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .tablet\:ext-px-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-px-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-py-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .tablet\:ext-py-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-py-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pt-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+  }
+
+  .tablet\:ext-pt-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pt-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pr-0:not([style*="padding"]) {
+    padding-right: 0 !important;
+  }
+
+  .tablet\:ext-pr-base:not([style*="padding"]) {
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pr-lg:not([style*="padding"]) {
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pb-0:not([style*="padding"]) {
+    padding-bottom: 0 !important;
+  }
+
+  .tablet\:ext-pb-base:not([style*="padding"]) {
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pb-lg:not([style*="padding"]) {
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pl-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+  }
+
+  .tablet\:ext-pl-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pl-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-text-left {
+    text-align: left !important;
+  }
+
+  .tablet\:ext-text-center {
+    text-align: center !important;
+  }
+
+  .tablet\:ext-text-right {
+    text-align: right !important;
+  }
+}
+
+@media (min-width: 1080px) {
+  .desktop\:ext-absolute {
+    position: absolute !important;
+  }
+
+  .desktop\:ext-relative {
+    position: relative !important;
+  }
+
+  .desktop\:ext-top-base {
+    top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-top-lg {
+    top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--top-base {
+    top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--top-lg {
+    top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-right-base {
+    right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-right-lg {
+    right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--right-base {
+    right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--right-lg {
+    right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-bottom-base {
+    bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-bottom-lg {
+    bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--bottom-base {
+    bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--bottom-lg {
+    bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-left-base {
+    left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-left-lg {
+    left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--left-base {
+    left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--left-lg {
+    left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-order-1 {
+    order: 1 !important;
+  }
+
+  .desktop\:ext-order-2 {
+    order: 2 !important;
+  }
+
+  .desktop\:ext-m-0:not([style*="margin"]) {
+    margin: 0 !important;
+  }
+
+  .desktop\:ext-m-auto:not([style*="margin"]) {
+    margin: auto !important;
+  }
+
+  .desktop\:ext-m-base:not([style*="margin"]) {
+    margin: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-m-lg:not([style*="margin"]) {
+    margin: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--m-base:not([style*="margin"]) {
+    margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--m-lg:not([style*="margin"]) {
+    margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mx-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .desktop\:ext-mx-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .desktop\:ext-mx-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mx-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mx-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mx-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-my-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .desktop\:ext-my-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+  }
+
+  .desktop\:ext-my-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-my-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--my-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--my-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mt-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+  }
+
+  .desktop\:ext-mt-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+  }
+
+  .desktop\:ext-mt-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mt-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mt-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mt-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mr-0:not([style*="margin"]) {
+    margin-right: 0 !important;
+  }
+
+  .desktop\:ext-mr-auto:not([style*="margin"]) {
+    margin-right: auto !important;
+  }
+
+  .desktop\:ext-mr-base:not([style*="margin"]) {
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mr-lg:not([style*="margin"]) {
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mr-base:not([style*="margin"]) {
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mr-lg:not([style*="margin"]) {
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mb-0:not([style*="margin"]) {
+    margin-bottom: 0 !important;
+  }
+
+  .desktop\:ext-mb-auto:not([style*="margin"]) {
+    margin-bottom: auto !important;
+  }
+
+  .desktop\:ext-mb-base:not([style*="margin"]) {
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mb-lg:not([style*="margin"]) {
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mb-base:not([style*="margin"]) {
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mb-lg:not([style*="margin"]) {
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-ml-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+  }
+
+  .desktop\:ext-ml-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+  }
+
+  .desktop\:ext-ml-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-ml-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--ml-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--ml-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-block {
+    display: block !important;
+  }
+
+  .desktop\:ext-inline-block {
+    display: inline-block !important;
+  }
+
+  .desktop\:ext-inline {
+    display: inline !important;
+  }
+
+  .desktop\:ext-flex {
+    display: flex !important;
+  }
+
+  .desktop\:ext-inline-flex {
+    display: inline-flex !important;
+  }
+
+  .desktop\:ext-grid {
+    display: grid !important;
+  }
+
+  .desktop\:ext-inline-grid {
+    display: inline-grid !important;
+  }
+
+  .desktop\:ext-hidden {
+    display: none !important;
+  }
+
+  .desktop\:ext-w-auto {
+    width: auto !important;
+  }
+
+  .desktop\:ext-w-full {
+    width: 100% !important;
+  }
+
+  .desktop\:ext-max-w-full {
+    max-width: 100% !important;
+  }
+
+  .desktop\:ext-flex-1 {
+    flex: 1 1 0% !important;
+  }
+
+  .desktop\:ext-flex-auto {
+    flex: 1 1 auto !important;
+  }
+
+  .desktop\:ext-flex-initial {
+    flex: 0 1 auto !important;
+  }
+
+  .desktop\:ext-flex-none {
+    flex: none !important;
+  }
+
+  .desktop\:ext-flex-shrink-0 {
+    flex-shrink: 0 !important;
+  }
+
+  .desktop\:ext-flex-shrink {
+    flex-shrink: 1 !important;
+  }
+
+  .desktop\:ext-flex-grow-0 {
+    flex-grow: 0 !important;
+  }
+
+  .desktop\:ext-flex-grow {
+    flex-grow: 1 !important;
+  }
+
+  .desktop\:ext-list-none {
+    list-style-type: none !important;
+  }
+
+  .desktop\:ext-grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-none {
+    grid-template-columns: none !important;
+  }
+
+  .desktop\:ext-flex-row {
+    flex-direction: row !important;
+  }
+
+  .desktop\:ext-flex-row-reverse {
+    flex-direction: row-reverse !important;
+  }
+
+  .desktop\:ext-flex-col {
+    flex-direction: column !important;
+  }
+
+  .desktop\:ext-flex-col-reverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .desktop\:ext-flex-wrap {
+    flex-wrap: wrap !important;
+  }
+
+  .desktop\:ext-flex-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+  }
+
+  .desktop\:ext-flex-nowrap {
+    flex-wrap: nowrap !important;
+  }
+
+  .desktop\:ext-items-start {
+    align-items: flex-start !important;
+  }
+
+  .desktop\:ext-items-end {
+    align-items: flex-end !important;
+  }
+
+  .desktop\:ext-items-center {
+    align-items: center !important;
+  }
+
+  .desktop\:ext-items-baseline {
+    align-items: baseline !important;
+  }
+
+  .desktop\:ext-items-stretch {
+    align-items: stretch !important;
+  }
+
+  .desktop\:ext-justify-start {
+    justify-content: flex-start !important;
+  }
+
+  .desktop\:ext-justify-end {
+    justify-content: flex-end !important;
+  }
+
+  .desktop\:ext-justify-center {
+    justify-content: center !important;
+  }
+
+  .desktop\:ext-justify-between {
+    justify-content: space-between !important;
+  }
+
+  .desktop\:ext-justify-around {
+    justify-content: space-around !important;
+  }
+
+  .desktop\:ext-justify-evenly {
+    justify-content: space-evenly !important;
+  }
+
+  .desktop\:ext-justify-items-start {
+    justify-items: start !important;
+  }
+
+  .desktop\:ext-justify-items-end {
+    justify-items: end !important;
+  }
+
+  .desktop\:ext-justify-items-center {
+    justify-items: center !important;
+  }
+
+  .desktop\:ext-justify-items-stretch {
+    justify-items: stretch !important;
+  }
+
+  .desktop\:ext-justify-self-auto {
+    justify-self: auto !important;
+  }
+
+  .desktop\:ext-justify-self-start {
+    justify-self: start !important;
+  }
+
+  .desktop\:ext-justify-self-end {
+    justify-self: end !important;
+  }
+
+  .desktop\:ext-justify-self-center {
+    justify-self: center !important;
+  }
+
+  .desktop\:ext-justify-self-stretch {
+    justify-self: stretch !important;
+  }
+
+  .desktop\:ext-p-0:not([style*="padding"]) {
+    padding: 0 !important;
+  }
+
+  .desktop\:ext-p-base:not([style*="padding"]) {
+    padding: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-p-lg:not([style*="padding"]) {
+    padding: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-px-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .desktop\:ext-px-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-px-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-py-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .desktop\:ext-py-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-py-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pt-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+  }
+
+  .desktop\:ext-pt-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pt-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pr-0:not([style*="padding"]) {
+    padding-right: 0 !important;
+  }
+
+  .desktop\:ext-pr-base:not([style*="padding"]) {
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pr-lg:not([style*="padding"]) {
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pb-0:not([style*="padding"]) {
+    padding-bottom: 0 !important;
+  }
+
+  .desktop\:ext-pb-base:not([style*="padding"]) {
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pb-lg:not([style*="padding"]) {
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pl-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+  }
+
+  .desktop\:ext-pl-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pl-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-text-left {
+    text-align: left !important;
+  }
+
+  .desktop\:ext-text-center {
+    text-align: center !important;
+  }
+
+  .desktop\:ext-text-right {
+    text-align: right !important;
+  }
+}
+
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://9thson.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='htslider-widgets-css' href='https://9thson.com/wp-content/plugins/ht-slider-for-elementor/assets/css/ht-slider-widgets.css?ver=1.3.9' media='all' />
+<link rel='stylesheet' id='wcsales-main-css' href='https://9thson.com/wp-content/plugins/wc-sales-notification-pro/assets/css/wc_notification.css?ver=1.0.2' media='all' />
+<style id='wcsales-main-inline-css'>
+
+            .wcsales-notification-content{
+                background:  !important;
+            }
+            .wcnotification_content h4,.wcnotification_content h6{
+                color:  !important;
+            }
+            .wcnotification_content p,.wcsales-buyername{
+                color:  !important;
+            }
+            .wccross{
+                color:  !important;
+            }
+</style>
+<link rel='stylesheet' id='animate-css' href='https://9thson.com/wp-content/plugins/wc-sales-notification-pro/assets/css/animate.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://9thson.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.2.2' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://9thson.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.2.2' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://9thson.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.2.2' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://9thson.com/wp-includes/css/dashicons.min.css?ver=6.1.1' media='all' />
+<style id='dashicons-inline-css'>
+[data-font="Dashicons"]:before {font-family: 'Dashicons' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='thickbox-css' href='https://9thson.com/wp-includes/js/thickbox/thickbox.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='woo-variation-swatches-css' href='https://9thson.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1671424136' media='all' />
+<style id='woo-variation-swatches-inline-css'>
+:root {
+--wvs-tick:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 2px rgb(0 0 0 / .8))' xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 30 30'%3E%3Cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4' d='M4 16L11 23 27 7'/%3E%3C/svg%3E");
+
+--wvs-cross:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 5px rgb(255 255 255 / .6))' xmlns='http://www.w3.org/2000/svg' width='72px' height='72px' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23ff0000' stroke-linecap='round' stroke-width='0.6' d='M5 5L19 19M19 5L5 19'/%3E%3C/svg%3E");
+--wvs-single-product-item-width:30px;
+--wvs-single-product-item-height:30px;
+--wvs-single-product-item-font-size:16px}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://9thson.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<style id='font-awesome-inline-css'>
+[data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='simple-line-icons-wl-css' href='https://9thson.com/wp-content/plugins/woolentor-addons/assets/css/simple-line-icons.css?ver=2.5.2' media='all' />
+<link rel='stylesheet' id='htflexboxgrid-css' href='https://9thson.com/wp-content/plugins/woolentor-addons/assets/css/htflexboxgrid.css?ver=2.5.2' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://9thson.com/wp-content/plugins/flone-core/css/slick.min.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='woolentor-widgets-css' href='https://9thson.com/wp-content/plugins/woolentor-addons/assets/css/woolentor-widgets.css?ver=2.5.2' media='all' />
+<link rel='stylesheet' id='jquery-colorbox-css' href='https://9thson.com/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css?ver=1.4.21' media='all' />
+<link rel='stylesheet' id='flone-google-fonts-css' href='//fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%2C800%2C900%7CCormorant+Garamond%3A300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%26subset%3Dlatin%2Clatin-ext&#038;ver=6.1.1' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://9thson.com/wp-content/themes/flone/assets/css/bootstrap.min.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='pe-icon-7-stroke-css' href='https://9thson.com/wp-content/themes/flone/assets/css/pe-icon-7-stroke.css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://9thson.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://9thson.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://9thson.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://9thson.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='meanmenu-css' href='https://9thson.com/wp-content/themes/flone/assets/css/meanmenu.css?ver=4.5.0' media='all' />
+<link rel='stylesheet' id='style-package-css' href='https://9thson.com/wp-content/themes/flone/assets/css/style-package.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://9thson.com/wp-content/themes/flone/assets/css/owl.carousel.min.css?ver=2.2.1' media='all' />
+<link rel='stylesheet' id='flone-main-css' href='https://9thson.com/wp-content/themes/flone/assets/css/main.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='flone-blocks-css' href='https://9thson.com/wp-content/themes/flone/assets/css/blocks.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='flone-theme-style-css' href='https://9thson.com/wp-content/themes/flone/assets/css/theme-style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='flone-responsive-css' href='https://9thson.com/wp-content/themes/flone/assets/css/responsive.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='flone-style-css' href='https://9thson.com/wp-content/themes/flone/style.css?ver=6.1.1' media='all' />
+<style id='flone-style-inline-css'>
+
+		   #scrollUp,
+		   .product-wrap .product-img .product-action > div,
+		   .header-right-wrap .same-style.header-search .search-content form .button-search,
+		   .woocommerce span.onsale,
+		   .btn-hover a::after,
+		   .single_add_to_cart_button::after,
+		   .entry-content a.readmore,
+		   .widget-area .tagcloud a:hover,
+		   .woocommerce nav.woocommerce-pagination ul.page-numbers li .page-numbers.current,
+		   .pagination ul.page-numbers li .page-numbers.current,
+		   .entry-content .page-links .post-page-numbers.current,
+		   .woocommerce nav.woocommerce-pagination ul.page-numbers li a:hover,
+		   .pagination ul.page-numbers li a:hover,
+		   .entry-content .page-links .post-page-numbers:hover,
+		   .comment-form .form-submit input[type="submit"],
+		   .woocommerce nav.woocommerce-pagination ul.page-numbers li a.prev:hover,
+		   .woocommerce nav.woocommerce-pagination ul.page-numbers li a.next:hover,
+		   .btn-hover a::after,
+		   .single_add_to_cart_button::after,
+		   .btn--1:hover,
+		   .woocommerce a.button:hover,
+		   .contact-form .contact-form-style .btn--1:hover,
+		   .has-post-thumbnail .post_category a:hover,
+		   .post-password-form input[type="submit"]:hover,
+		   .cart-shiping-update-wrapper .cart-shiping-update>a:hover,
+		   .woocommerce .cart .actions .button:hover,
+		   .cart-shiping-update-wrapper .cart-clear>button:hover,
+		   .cart-shiping-update-wrapper .cart-clear>a:hover,
+		   .woocommerce #respond input#submit:hover,
+		   .woocommerce a.button:hover,
+		   .woocommerce button.button:hover,
+		   .woocommerce input.button:hover,
+		   .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+		   .woocommerce a.button.alt:hover,
+		   .shop-list-wrap .shop-list-content .shop-list-btn a.wc-forward:hover,
+		   .order-button-payment input,
+		   .woocommerce #payment #place_order,
+		   .woocommerce-page #payment #place_order,
+		   .widget_calendar tbody td#today,
+		   .entry-content .wp-block-file .wp-block-file__button:hover,
+		   .blog-wrap .blog-img span.purple,.blog-wrap .blog-img span.pink,
+		   .woo-variation-swatches-stylesheet-enabled.woo-variation-swatches-style-squared .variable-items-wrapper .variable-item.button-variable-item:hover,
+		   .woocommerce-noreviews,
+		   p.no-comments,
+		   .woocommerce #review_form #respond .form-submit input:hover,
+		   .elementor-inner ul.woocommerce-widget-layered-nav-list li:hover span,
+		   .woocommerce-widget-layered-nav ul li:hover span,
+		   .flone-preloader span,
+		   .slinky-theme-default .back::before,
+		   .sidebar-menu nav ul li ul.sub-menu li a::before,
+		   .product-wrap-2 .product-img .product-action-2 a,
+		   .main-menu nav ul li ul.mega-menu>li ul li a::before,
+		   .sidebar-menu nav ul li ul.mega-menu>li ul li a::before,
+		   .nav-style-2.owl-carousel>.owl-nav div:hover,
+		   .product-wrap-3 .product-content-3-wrap .product-content-3 .product-action-3 a,
+		   .nav-style-3.owl-carousel>.owl-nav div:hover,
+		   .product-wrap-5 .product-action-4,.reply a,.subscribe-style-3 .subscribe-form-3 .clear-2 input:hover,.btn-hover a::after, .single_add_to_cart_button::after,.entry-content .wp-block-button .wp-block-button__link:hover{
+		            background-color: #ff6b24;
+		    }
+	        .entry-title a:hover,
+	        article .post-meta .post-author::before,
+	        .main-menu nav ul li ul.mega-menu > li ul li a:hover,
+	        .header-right-wrap .same-style:hover > a,
+	        .header-right-wrap .same-style .account-dropdown ul li a:hover,
+	        article .post-meta a:hover,
+	        article .post-meta .posted-on::before,
+	        article .post-meta .post-category:before,
+	        .widget-area a:hover,
+	        .entry-content a:hover,
+	        .comment-content a,
+	        .woocommerce-message::before,
+	        .woocommerce nav.woocommerce-pagination ul.page-numbers li a,
+	        .pagination ul.page-numbers li a,
+	        .entry-content .page-links .post-page-numbers,
+	        .entry-footer a:hover,
+	        .comment-form .logged-in-as a:hover,
+	        .woocommerce nav.woocommerce-pagination ul.page-numbers li a.prev,
+	        .woocommerce nav.woocommerce-pagination ul.page-numbers li a.next,
+	        .shop-list-wrap .shop-list-content h3 a:hover,
+	        .breadcrumb-content ul li a:hover,
+	        .woocommerce .cart-table-content table tbody>tr td.product-name a:hover,
+	        .pro-sidebar-search-form button:hover,
+	        .woocommerce-info::before,
+	        .woocommerce .your-order-table table tr.order-total td span,
+	        .header-right-wrap .same-style.cart-wrap:hover > button,
+	        .woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover,
+	        .woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a,
+	        .product .entry-summary .pro-details-social ul li a:hover,
+	        .product .entry-summary .product_meta a:hover,
+	        .modal-dialog .modal-header .close:hover,
+	        .header-right-wrap .same-style.cart-wrap .shopping-cart-content ul li .shopping-cart-delete a,
+	        .footer_style_2 .footer-widget.widget_nav_menu ul li a:hover,
+	        .footer-widget .subscribe-form input[type="submit"]:hover,
+	        .nav-style-1.owl-carousel .owl-nav div:hover,
+	        p.stars:hover a::before,
+	        .clickable-mainmenu .clickable-menu-style ul li a:hover,
+	        .clickable-menu a:hover,
+	        .sidebar-menu nav ul li ul.sub-menu li a:hover,
+	        .single-banner .banner-content a:hover,
+	        .sidebar-menu nav ul li ul.mega-menu>li ul li a:hover,
+	        .header-hm-7.stick .clickable-menu a:hover,
+	        .clickable-mainmenu .clickable-mainmenu-icon button:hover,
+			.main-menu nav ul li ul.mega-menu>li ul li a::after,.main-menu nav ul li ul.sub-menu li a::after,
+			#primary-menu .menu-item-has-children:hover::after,
+			.mean-container .mean-nav ul li a:hover,
+	        .widget-area li.current-cat a,.header-right-wrap.header-right-wrap-white .same-style.cart-wrap>button span.count-style,.flone_header_4 #primary-menu .menu-item-has-children:hover::after,.header-right-wrap.header-right-wrap-white .same-style>a:hover,.header-right-wrap.header-right-wrap-white .same-style.cart-wrap>button:hover,.filter-active a:hover,.product .entry-summary a.woocommerce-review-link,p.stars.selected a:not(.active):before,p.stars.selected a.active:before,.product-rating i.yellow,.language-currency-wrap .same-language-currency:hover>a,.language-currency-wrap .same-language-currency .lang-car-dropdown ul li a:hover,.entry-content a,.language-currency-wrap .same-language-currency:hover a i, .comment-content a,.comment-list .comment-metadata a,.comment-list .comment-metadata a:hover,.comment-list .comment-metadata a.comment-edit-link:hover,.header-right-wrap .same-style.cart-wrap .shopping-cart-content ul li .shopping-cart-title h4 a:hover,.product-wrap-2 .product-content-2 .title-price-wrap-2 h3 a:hover,.product-wrap-2 .product-content-2 .pro-wishlist-2 a:hover,.product-wrap .product-content a:hover h2,.collection-product .collection-content h4 a:hover, .collection-product .collection-content a h2:hover,.product-wrap-5 .product-content-5 h3 a:hover,.copyright p a:hover , .widget_shopping_cart .widget_shopping_cart_content ul li .shopping-cart-title h4 a:hover, .widget_shopping_cart .widget_shopping_cart_content ul li .shopping-cart-delete a{
+	                color: #ff6b24;
+	        }
+	        .btn-hover a:hover,
+	        .single_add_to_cart_button:hover,
+	        blockquote,
+	        .shop-list-wrap .shop-list-content .shop-list-btn a:hover,
+	        .woocommerce-info,
+	        .woocommerce-message,
+	        .wp-block-quote:not(.is-large):not(.is-style-large),
+	        .footer-widget .subscribe-form input[type="submit"]:hover,
+	        .widget-area .tagcloud a:hover,
+	        .slider-content-2 .slider-btn a:hover,
+	        .single-banner .banner-content a:hover,
+	        .slider-content-3 .slider-btn a:hover,
+	        .slider-content-7 .slider-btn-9 a:hover,
+	        .lds-ripple div:nth-child(1), .lds-ripple div:nth-child(2),
+	        .single-slider .slider-content .slider-btn a:hover,body.woo-variation-swatches-stylesheet-enabled .variable-items-wrapper .variable-item:not(.radio-variable-item).selected, .woo-variation-swatches-stylesheet-enabled .variable-items-wrapper .variable-item:not(.radio-variable-item).selected:hover,.funfact-content .funfact-btn a:hover,.view-more a:hover{
+	                border-color: #ff6b24;
+	        }
+	        .blog-wrap .blog-img span.pink,
+	        .woocommerce span.onsale.pink,
+	        .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+	        .product-wrap-2 .product-img .product-action-2 a:hover,
+	        .product-wrap-3 .product-content-3-wrap .product-content-3 .product-action-3 a:hover,
+	        .product-wrap .product-img .product-action>div:hover,.quickview .single_add_to_cart_button::after,
+	        .product-wrap-5 .product-action-4 .pro-same-action a:hover{
+	                background-color: #4a171e;
+	        }
+	        .shop-top-bar .shop-tab li a.active,
+	        .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item.chosen a::before,
+	        .product-wrap-5 .yith-wcwl-wishlistexistsbrowse.show a i{
+	            color: #4a171e;
+	        }
+         .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.shop-list-wrap .shop-list-content .shop-list-btn a:hover{
+             border-color: #4a171e;
+         }
+	        .main-menu nav ul li>a, #primary-menu .menu-item-has-children::after,.sidebar-menu nav ul li a,.home-sidebar-left .sidebar-copyright p,.header-right-wrap .same-style>a,.header-right-wrap .same-style.cart-wrap button,.flone_header_4 .main-menu.menu-white nav > ul > li>a, .flone_header_4 #primary-menu .menu-item-has-children::after,.header-right-wrap.header-right-wrap-white .same-style>a,.header-right-wrap.header-right-wrap-white .same-style.cart-wrap>button,.clickable-mainmenu .clickable-menu-style ul li a,.slinky-theme-default .next::after,.slinky-theme-default .next::after{
+	            color: #4a171e;
+	        }
+         .mean-container a.meanmenu-reveal{
+             border-color: #4a171e;
+         }
+	        .mean-container a.meanmenu-reveal span,.header-right-wrap.header-right-wrap-white .same-style.cart-wrap>button span.count-style,.flone-mobile-menu-toggle .toggle i::before, .flone-mobile-menu-close .toggle i::before, .flone-mobile-menu-toggle .toggle i::after, .flone-mobile-menu-close .toggle i::after,.slinky-theme-default .back:hover::before{
+	                background: #4a171e;
+	        }
+	        .main-menu nav ul li:hover a, #primary-menu .menu-item-has-children:hover::after,.sidebar-menu nav ul li:hover a,.main-menu nav ul li ul.mega-menu>li ul li a:hover, .sidebar-menu nav ul li ul.mega-menu>li ul li a:hover, .main-menu .sub-menu>li>a:focus,.main-menu nav ul li ul.mega-menu>li ul li a::after, .main-menu nav ul li ul.sub-menu li a::after,.main-menu nav ul li ul.sub-menu li a:hover,.sidebar-menu nav ul li ul.sub-menu li a:hover,.header_style_4 .main-menu.menu-white nav ul li:hover>a,.clickable-mainmenu .clickable-menu-style ul li a:hover,.slinky-theme-default .next:hover::after,.clickable-mainmenu .clickable-menu-style ul li a:hover,.slinky-theme-default .next:hover::after{
+	            color: #ff6b24;
+	        }
+         {
+             border-color: #ff6b24;
+         }
+	        .main-menu nav ul li ul.mega-menu>li ul li a::before, .sidebar-menu nav ul li ul.mega-menu>li ul li a::before,.main-menu nav ul li ul.sub-menu li a::before,.sidebar-menu nav ul li ul.sub-menu li a::before,.flone-mobile-menu-toggle .toggle:hover i::before, .flone-mobile-menu-close .toggle:hover i::before, .flone-mobile-menu-toggle .toggle:hover i::after, .flone-mobile-menu-close .toggle:hover i::after,.slinky-theme-default .back::before{
+	                background: #ff6b24;
+	        }
+	        .product .entry-summary .pro-details-social ul li a:hover,
+	        .product .entry-summary .product_meta a:hover{
+	           color: #4a171e;
+	        }
+</style>
+<link rel='stylesheet' id='the_champ_frontend_css-css' href='https://9thson.com/wp-content/plugins/super-socializer/css/front.css?ver=7.13.45' media='all' />
+<link rel='stylesheet' id='flone-dynamic-style-css' href='https://9thson.com/wp-content/uploads/flone-dynamic-style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='apbd-wmc-frontend-css' href='https://9thson.com/wp-content/plugins/wc-multi-currency/uilib/httheme/css/frontend.css?ver=1.5.4' media='' />
+<script src='https://9thson.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/owl.carousel.min.js?ver=2.2.1' id='owl-carousel-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/jquery.instagramfeed.min.js?ver=2.2.1' id='flone-instagramfeed-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=G-PBQYRC0JJD' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-PBQYRC0JJD");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<script id='apbd-wc-wmc-frontend-js-js-extra'>
+var apbd_wmc_vars = {"wmchash":"7e121a72","active_currency":{"id":1,"is_default":true,"is_show":true,"code":"INR","position":"left","rate":1,"ex_fee":"0","dec_num":"2","custom_symbol":"\u20b9"},"currency_symbol":"\u20b9"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/wc-multi-currency/js/frontend.min.js?ver=1.5.4' id='apbd-wc-wmc-frontend-js-js'></script>
+<script src='https://9thson.com/wp-content/plugins/wc-multi-currency/js/ht-price-slider.js?ver=1.5.4' id='wc-price-slider-apmc-js'></script>
+<link rel="https://api.w.org/" href="https://9thson.com/wp-json/" /><link rel="alternate" type="application/json" href="https://9thson.com/wp-json/wp/v2/pages/1885" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://9thson.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://9thson.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://9thson.com/?p=1885' />
+<link rel="alternate" type="application/json+oembed" href="https://9thson.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F9thson.com%2Ft-shirt-size-guide-chart%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://9thson.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F9thson.com%2Ft-shirt-size-guide-chart%2F&#038;format=xml" />
+<meta name="generator" content="Redux 4.3.21" /><meta name="generator" content="Site Kit by Google 1.90.1" />	<script type="text/javascript">
+		var ajaxurl = 'https://9thson.com/wp-admin/admin-ajax.php';
+	</script>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https://schema.org/","@graph":[{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Home","url":"https://9thson.com/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"About Us","url":"https://9thson.com/about-us/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Shop","url":"https://9thson.com/shop/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Apparel","url":"#"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Unisex T-Shirts","url":"https://9thson.com/product-category/t-shirts/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Full Sleeve T- shirt","url":"https://9thson.com/product-category/full-sleeve-t-shirt/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Hoodies","url":"https://9thson.com/product-category/hoodies/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Women's Tees","url":"https://9thson.com/product-category/womens-t-shirts/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Crop Tops","url":"https://9thson.com/product-category/crop-tops/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Crop Hoodies","url":"https://9thson.com/product-category/crop-hoodies/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Kids T Shirts","url":"https://9thson.com/product-category/kids-t-shirts/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Accessories","url":""},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Posters","url":"https://9thson.com/product-category/poster-collection/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Pop Grips","url":"https://9thson.com/product-category/popgrips/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Phone Cases","url":"https://9thson.com/product-category/phone-cases/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Mugs","url":"https://9thson.com/product-category/mugs/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Notebooks","url":"https://9thson.com/product-category/notebooks/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Collections","url":"https://9thson.com/shop/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://9thson.com/#Main Menu","name":"Contact Us","url":"https://9thson.com/contact-us/"}]},
+
+{"@context":"https://schema.org/","@type":"BreadcrumbList","@id":"https://9thson.com/t-shirt-size-guide-chart/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://9thson.com","name":"9thson"}},{"@type":"ListItem","position":2,"item":{"@id":"https://9thson.com/t-shirt-size-guide-chart/","name":"T-Shirt Size Guide/Chart - 9thson"}}]},
+
+{"@context":"https://schema.org/","@type":"Organization","@id":"https://9thson.com/t-shirt-size-guide-chart/#Organization","url":"https://9thson.com/t-shirt-size-guide-chart/","description":"Men's Clothing Men's Round Neck Men's Long sleeves Hoodies  Women's Clothing Women's Round Neck Women's Crop Top KIDS T-SHIRTS Kid's Round Neck T-shirt NOTE - T-shirts with size issues will not be replaced","name":"T-Shirt Size Guide/Chart - 9thson","review":[],"image":[{"@type":"ImageObject","url":"https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-1024x512-1200x675.jpg","width":1200,"height":675,"@id":"https://9thson.com/t-shirt-size-guide-chart/#primaryimage"},{"@type":"ImageObject","url":"https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-1024x512.jpg","width":1024,"height":512},{"@type":"ImageObject","url":"https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD-1024x512.jpg","width":1024,"height":512},{"@type":"ImageObject","url":"https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-1024x512.jpg","width":1024,"height":512},{"@type":"ImageObject","url":"https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-1024x512.jpg","width":1024,"height":512},{"@type":"ImageObject","url":"https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-1024x512.jpg","width":1024,"height":512}]}]
+</script>
+
+            <script type="text/javascript">
+                var ajaxurl = 'https://9thson.com/wp-admin/admin-ajax.php';
+            </script>
+        			<script  type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script  type="text/javascript">
+
+				fbq('init', '139970591611775', {}, {
+    "agent": "woocommerce-7.2.2-3.0.7"
+});
+
+				fbq( 'track', 'PageView', {
+    "source": "woocommerce",
+    "version": "7.2.2",
+    "pluginVersion": "3.0.7"
+} );
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					jQuery && jQuery( function( $ ) {
+						// Insert placeholder for events injected when a product is added to the cart through AJAX.
+						$( document.body ).append( '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+					} );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+					<style type="text/css">
+			.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+
+					</style>
+
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script>
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-T9RJSTB' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+<meta name="generator" content="Powered by Slider Revolution 6.6.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://9thson.com/wp-content/uploads/2021/12/cropped-9thson-Favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://9thson.com/wp-content/uploads/2021/12/cropped-9thson-Favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://9thson.com/wp-content/uploads/2021/12/cropped-9thson-Favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://9thson.com/wp-content/uploads/2021/12/cropped-9thson-Favicon-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style id="wp-custom-css">
+			.fa{font:normal normal normal 14px/1 FontAwesome !important}
+.sku_wrapper{display:none !important}
+.compare-button{ display:none !important}
+.woocommerce .product-wrap .product-img .product-action .pro-same-action.pro-cart a.product_type_variable {
+    font-size: 14px;
+}
+@media (max-width: 767px) {
+.woocommerce .product-wrap .product-img .product-action .pro-same-action.pro-cart a.product_type_variable {
+    line-height: 1.2;
+}
+}
+@media (min-width: 1200px) and (max-width: 1293px) {
+.woocommerce .product-wrap .product-img .product-action .pro-same-action.pro-cart a.product_type_variable {
+    line-height: 1.2;
+}
+}
+.product-img .product-action .pro-same-action.pro-cart a.product_type_variable {
+    font-size: 14px !important;
+    line-height: 1.2 !important;
+}footer#colophon {
+    background: #f6f6f6;
+}.footer-widget .footer-title h2{font-size: 16px;
+    font-weight: 500;
+    color: #313131;
+    margin: 0 0 16px;
+    line-height: 1;
+    text-transform: uppercase;}
+.footer-widget .subscribe-style {
+    color: #7a7a7a;}
+.copyright p {
+    color: #313131;
+    letter-spacing: .9px;
+}.pt-100{padding-top:50px}
+.pb-70{padding-bottom:30px}
+.footer-area, .footer-area p, .flone-bg-gray .footer-top p, .footer-widget .subscribe-style, .footer-widget .footer-title h2, .footer-widget .subscribe-form input {
+    color: #000;
+}		</style>
+		<style id="flone_opt-dynamic-css" title="dynamic-css" class="redux-options-output">.woocommerce span.onsale,.woocommerce span.onsale.pink{background-color:#ff6b24;}.woocommerce span.onsale{color:#4a171e;}.woocommerce span.onsale.pink{background-color:#ffffff;}.woocommerce span.onsale.pink{color:#eeee22;}body{font-display:swap;}h1{font-display:swap;}h2{font-display:swap;}h3{font-display:swap;}h4{font-display:swap;}h5{font-display:swap;}h6{font-display:swap;}.flone-site-main-mobile-menu,.flone-site-main-mobile-menu.offcanvas-right-fade{background-color:#ff6b24;}.nav-tabs.flone-offcanvas .nav-link.active{background-color:#ff6b24;}.nav-tabs.flone-offcanvas .nav-link.active{color:#4a171e;}.nav-tabs.flone-offcanvas .nav-link{background-color:#ff6b24;}.nav-tabs.flone-offcanvas .nav-link{color:#4a171e;}.flone-site-mobile-menu > ul > li > a,.flone-site-mobile-menu > ul > li .menu-toggle,.flone-site-mobile-menu .flone-sub-menu li > a{color:#4a171e;}.footer-area,.footer-area.flone-bg-gray,.footer-area.flone-bg-white,.footer-area.site-footer{background-color:#a5a5a5;}.footer-area,.footer-area p,.flone-bg-gray .footer-top p,.footer-widget .subscribe-style,.footer-widget .footer-title h2,.footer-widget .subscribe-form input{color:#0a0a0a;}.footer-bottom{background-color:#000000;}.footer-bottom .copyright,.footer-bottom .copyright-2,.footer-bottom .copyright p,.footer-bottom .copyright-2 p{color:#ffffff;}</style></head>
+
+<body class="page-template-default page page-id-1885 wp-custom-logo theme-flone woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-flone wvs-show-label wvs-tooltip woolentor_current_theme_flone t-shirt-size-guide-chart woocommerce-active woolentor-empty-cart elementor-default elementor-kit-914">
+			<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9RJSTB" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	
+	
+	<div id="page" class="site ">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		
+<header id="masthead" class="site-header header-area header-in-container clearfix header-offcanvas-menu has_header_icons header_style_2">
+    
+    <div class="header-bottom header-res-padding sticky-bar ">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-2 col-lg-2 col-md-6 col-4 d-lg-block d-none">
+                    <div class="site-branding logo">
+                        <a href="https://9thson.com/" class="custom-logo-link" rel="home"><img width="250" height="120" src="https://9thson.com/wp-content/uploads/2022/12/9thson-logo-new-2023-1.png" class="custom-logo" alt="9thson" decoding="async" /></a>                    </div><!-- .site-branding -->
+                </div>
+                                    <div class="col-3 d-lg-none">
+                        <div class="flone-mobile-menu-toggle">
+                            <button class="toggle">
+                                <i class="icon-top"></i>
+                                <i class="icon-middle"></i>
+                                <i class="icon-bottom"></i>
+                            </button>
+                        </div>
+                    </div>
+                
+                                    <div class="col-5 d-lg-none text-center">
+                        <div class="site-branding logo">
+                            <a href="https://9thson.com/" class="custom-logo-link" rel="home"><img width="250" height="120" src="https://9thson.com/wp-content/uploads/2022/12/9thson-logo-new-2023-1.png" class="custom-logo" alt="9thson" decoding="async" /></a>                        </div><!-- .site-branding -->
+                    </div>
+                                <div class="col-xl-8 col-lg-8 d-none d-lg-block">
+                    <div class="main-menu">
+                                                    <nav>
+                                <ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home nocls"><a href="https://9thson.com/" class="">Home </a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page nocls"><a href="https://9thson.com/about-us/" class="">About Us </a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children "><a href="https://9thson.com/shop/" class="">Shop </a><ul class="mega-menu" data-src="https://9thson.com/wp-content/uploads/2022/03/family-t-shirt.png" >	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a href="#" class="menu_title"><span>Apparel</span> </a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/t-shirts/" class=""><span>Unisex T-Shirts</span> </a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="https://9thson.com/product-category/full-sleeve-t-shirt/" class=""><span>Full Sleeve T- shirt</span> </a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/hoodies/" class=""><span>Hoodies</span> </a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/womens-t-shirts/" class=""><span>Women&#8217;s Tees</span> </a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/crop-tops/" class=""><span>Crop Tops</span> </a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="https://9thson.com/product-category/crop-hoodies/" class=""><span>Crop Hoodies</span> </a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="https://9thson.com/product-category/kids-t-shirts/" class=""><span>Kids T Shirts</span> </a></li>
+
+	</ul></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children "><a class="menu_title"><span>Accessories</span> </a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/poster-collection/" class=""><span>Posters</span> </a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/popgrips/" class=""><span>Pop Grips</span> </a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/phone-cases/" class=""><span>Phone Cases</span> </a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://9thson.com/product-category/mugs/" class=""><span>Mugs</span> </a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat "><a href="https://9thson.com/product-category/notebooks/" class=""><span>Notebooks</span> </a></li>
+
+	</ul></li>
+
+</ul></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom nocls"><a href="https://9thson.com/shop/" class="">Collections </a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page nocls"><a href="https://9thson.com/contact-us/" class="">Contact Us </a></li>
+</ul>                            </nav>
+                                            </div>
+                </div>
+
+                                    <div class="col-xl-2 col-lg-2 col-md-4 col-4 ">
+                        		<div class="header-right-wrap ">
+
+							<div class="same-style header-search">
+					<a class="search-active" href="#"><i class="pe-7s-search"></i></a>
+					<div class="search-content">
+						<form class="pro-sidebar-search-form" action="https://9thson.com/" method="GET">
+							<input type="search" name="s" placeholder="Search Product" value="">
+							<button class="button-search">
+								<i class="pe-7s-search"></i>
+							</button>
+
+															<input type="hidden" name="post_type" value="product" />
+													</form>
+					</div>
+				</div>
+			
+							<div class="same-style account-satting">
+
+					<a href="https://9thson.com/my-account/"><i class="pe-7s-user"></i></a>
+				</div>
+			
+			<!-- WishList Capability Start -->
+								<div class="same-style header-wishlist">
+						<a href="https://9thson.com/wishlist/"><i class="pe-7s-like"></i></a>
+					</div>
+						<!-- WishList Capability End -->
+
+							<div class="same-style cart-wrap">
+					<button class="icon-cart">
+						<i class="pe-7s-shopbag"></i>
+						<span class="count-style">0</span>
+					</button>
+					<div class="shopping-cart-content">
+						<div class="widget_shopping_cart_content">
+
+						</div>
+					</div>
+				</div>
+					</div>
+		                    </div>
+                
+            </div>
+
+            
+                            <div id="flone-site-main-mobile-menu" class="flone-site-main-mobile-menu d-block d-lg-none">
+                    <div class="flone-mobile-menu-close">
+                        <button class="toggle">
+                            <i class="icon-top"></i>
+                            <i class="icon-bottom"></i>
+                        </button>
+                    </div>
+                    <div class="flone-mobile-menu-content">
+                        <ul class="nav nav-tabs flone-offcanvas" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="categories-tab" data-toggle="tab" href="#categories" role="tab" aria-controls="categories" aria-selected="true">Categories</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="myaccount-tab" data-toggle="tab" href="#myaccount" role="tab" aria-controls="myaccount" aria-selected="false">My Account</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="categories" role="tabpanel" aria-labelledby="home-tab">
+                                                                    <nav class="flone-site-mobile-menu">
+                                        <ul id="menu-main-menu" class="menu-overflow"><li id="nav-menu-item-932" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="https://9thson.com/" class="menu-link main-menu-link"><span class="text">Home</span></a></li>
+<li id="nav-menu-item-734" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/about-us/" class="menu-link main-menu-link"><span class="text">About Us</span></a></li>
+<li id="nav-menu-item-860" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://9thson.com/shop/" class="menu-link main-menu-link"><span class="text">Shop</span></a><span class="menu-toggle"><i class="fas fa-chevron-down"></i></span>
+<ul class=" menu-odd  flone-sub-menu menu-depth-1">
+	<li id="nav-menu-item-813" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="menu-link sub-menu-link"><span class="text">Apparel</span></a><span class="menu-toggle"><i class="fas fa-chevron-down"></i></span>
+	<ul class="sub-menu menu-even sub-sub-menu flone-sub-menu menu-depth-2">
+		<li id="nav-menu-item-982" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/t-shirts/" class="menu-link sub-menu-link"><span class="text">Unisex T-Shirts</span></a></li>
+		<li id="nav-menu-item-7542" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://9thson.com/product-category/full-sleeve-t-shirt/" class="menu-link sub-menu-link"><span class="text">Full Sleeve T- shirt</span></a></li>
+		<li id="nav-menu-item-985" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/hoodies/" class="menu-link sub-menu-link"><span class="text">Hoodies</span></a></li>
+		<li id="nav-menu-item-983" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/womens-t-shirts/" class="menu-link sub-menu-link"><span class="text">Women&#8217;s Tees</span></a></li>
+		<li id="nav-menu-item-986" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/crop-tops/" class="menu-link sub-menu-link"><span class="text">Crop Tops</span></a></li>
+		<li id="nav-menu-item-7539" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://9thson.com/product-category/crop-hoodies/" class="menu-link sub-menu-link"><span class="text">Crop Hoodies</span></a></li>
+		<li id="nav-menu-item-7540" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://9thson.com/product-category/kids-t-shirts/" class="menu-link sub-menu-link"><span class="text">Kids T Shirts</span></a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-815" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link sub-menu-link"><span class="text">Accessories</span></a><span class="menu-toggle"><i class="fas fa-chevron-down"></i></span>
+	<ul class="sub-menu menu-even sub-sub-menu flone-sub-menu menu-depth-2">
+		<li id="nav-menu-item-5312" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/poster-collection/" class="menu-link sub-menu-link"><span class="text">Posters</span></a></li>
+		<li id="nav-menu-item-830" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/popgrips/" class="menu-link sub-menu-link"><span class="text">Pop Grips</span></a></li>
+		<li id="nav-menu-item-836" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/phone-cases/" class="menu-link sub-menu-link"><span class="text">Phone Cases</span></a></li>
+		<li id="nav-menu-item-6492" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/product-category/mugs/" class="menu-link sub-menu-link"><span class="text">Mugs</span></a></li>
+		<li id="nav-menu-item-7541" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a href="https://9thson.com/product-category/notebooks/" class="menu-link sub-menu-link"><span class="text">Notebooks</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="nav-menu-item-4016" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://9thson.com/shop/" class="menu-link main-menu-link"><span class="text">Collections</span></a></li>
+<li id="nav-menu-item-735" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/contact-us/" class="menu-link main-menu-link"><span class="text">Contact Us</span></a></li>
+</ul>                                    </nav>
+                                                            </div>
+                            <div class="tab-pane fade" id="myaccount" role="tabpanel" aria-labelledby="myaccount-tab">
+                                                                    <nav class="flone-site-mobile-menu">
+                                        <ul id="menu-extra-header-menu" class="menu-overflow"><li id="nav-menu-item-802" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/my-account/" class="menu-link main-menu-link"><span class="text">My account</span></a></li>
+<li id="nav-menu-item-804" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/cart/" class="menu-link main-menu-link"><span class="text">Cart</span></a></li>
+<li id="nav-menu-item-803" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/checkout/" class="menu-link main-menu-link"><span class="text">Checkout</span></a></li>
+<li id="nav-menu-item-1892" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1885 current_page_item"><a href="https://9thson.com/t-shirt-size-guide-chart/" class="menu-link main-menu-link"><span class="text">T-Shirt Size Guide/Chart</span></a></li>
+<li id="nav-menu-item-3992" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/terms-and-conditions/" class="menu-link main-menu-link"><span class="text">Terms and Conditions</span></a></li>
+<li id="nav-menu-item-3994" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy"><a href="https://9thson.com/privacy-policy/" class="menu-link main-menu-link"><span class="text">Privacy Policy</span></a></li>
+<li id="nav-menu-item-4001" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/faq/" class="menu-link main-menu-link"><span class="text">FAQ</span></a></li>
+<li id="nav-menu-item-4005" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/return-policy/" class="menu-link main-menu-link"><span class="text">Return Policy</span></a></li>
+<li id="nav-menu-item-4169" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://9thson.com/shipping-policy/" class="menu-link main-menu-link"><span class="text">Shipping Policy</span></a></li>
+</ul>                                    </nav>
+                                                            </div>
+                            <div class="offcanvas-thumnnail">
+                                                                <img src="" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</header>
+			<div class="breadcrumb-area pt-35 pb-35 bg-gray-3">
+		<div class="container">
+			<div class="breadcrumb-content text-center">
+				<div class="breadcrumb-content text-center"><ul><li><a href="https://9thson.com/">Home</a></li><li>T-Shirt Size Guide/Chart</li></ul></div>			</div>
+		</div>
+	</div>
+
+		
+		<div id="content" class="site-content pt-100 pb-100"><div class="container">
+	<div class="row">
+
+		<div class="col-xl-12">
+			<div id="primary" class="content-area">
+				<main id="main" class="site-main page-main">
+					
+<article id="post-1885" class="post-1885 page type-page status-publish hentry">
+
+			<h1 class="entry-title">T-Shirt Size Guide/Chart</h1>	
+	
+	<div class="entry-content">
+		
+<h2><strong>Men&#8217;s Clothing</strong></h2>
+
+
+
+<p><strong>Men&#8217;s Round Neck</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="512" src="https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-1024x512.jpg" alt="Men Round Updated with 5XL 2" class="wp-image-1886" srcset="https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-1024x512.jpg 1024w, https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-300x150.jpg 300w, https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-768x384.jpg 768w, https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-1536x768.jpg 1536w, https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2-600x300.jpg 600w, https://9thson.com/wp-content/uploads/2020/08/Men_Round_Updated_with_5XL_2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p><strong>Men&#8217;s Long sleeves</strong><br></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="512" src="https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-1024x512.jpg" alt="Men Full Sleeve New Size Guide" class="wp-image-1887" srcset="https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-1024x512.jpg 1024w, https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-300x150.jpg 300w, https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-768x384.jpg 768w, https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-1536x768.jpg 1536w, https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide-600x300.jpg 600w, https://9thson.com/wp-content/uploads/2020/08/Men_Full_Sleeve_New_Size_Guide.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p><strong>Hoodies </strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="512" src="https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD-1024x512.jpg" alt="Hoodies Size Guide PSD" class="wp-image-1888" srcset="https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD-1024x512.jpg 1024w, https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD-300x150.jpg 300w, https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD-768x384.jpg 768w, https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD-600x300.jpg 600w, https://9thson.com/wp-content/uploads/2020/08/Hoodies_Size_Guide_PSD.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<h2><strong>Women&#8217;s Clothing</strong></h2>
+
+
+
+<p><strong>Women&#8217;s Round Neck</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="512" src="https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-1024x512.jpg" alt="Women T Shirt Size Guide" class="wp-image-1889" srcset="https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-1024x512.jpg 1024w, https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-300x150.jpg 300w, https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-768x384.jpg 768w, https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-1536x768.jpg 1536w, https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-2048x1024.jpg 2048w, https://9thson.com/wp-content/uploads/2020/08/Women_T_Shirt_Size_Guide-600x300.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p><strong>Women&#8217;s Crop Top</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="512" src="https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-1024x512.jpg" alt="Crop Top New Size Guide" class="wp-image-1890" srcset="https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-1024x512.jpg 1024w, https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-300x150.jpg 300w, https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-768x384.jpg 768w, https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-1536x768.jpg 1536w, https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide-600x300.jpg 600w, https://9thson.com/wp-content/uploads/2020/08/Crop_Top_New_Size_Guide.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<h2><strong>KIDS T-SHIRTS</strong></h2>
+
+
+
+<p><strong>Kid&#8217;s Round Neck T-shirt</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="512" src="https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-1024x512.jpg" alt="Kids Round Neck Size Guide 1" class="wp-image-1891" srcset="https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-1024x512.jpg 1024w, https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-300x150.jpg 300w, https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-768x384.jpg 768w, https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-1536x768.jpg 1536w, https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-2048x1024.jpg 2048w, https://9thson.com/wp-content/uploads/2020/08/Kids_Round_Neck_Size_Guide_1_-600x300.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p><strong>NOTE &#8211; </strong>T-shirts with size issues will not be replaced</p>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-1885 -->
+						<div class="row">
+													</div>
+
+					
+				</main>
+			</div><!-- #primary -->
+		</div>
+
+	</div>
+</div><!-- .container -->
+
+</div><!-- #content -->
+
+
+<footer id="colophon" class="site-footer footer-area flone-bg-gray pt-100 pb-70 footer_style_2">
+	<div class="container">
+		<div class="row">
+
+							<div class="col-lg-2 col-md-4 col-sm-4">
+								
+	        <div id="flone_footer_logo_widget-5" class="footer-widget mb-30 widget_flone_footer_logo_widget">	        	<div class="flone-footer-logo-box copyright mb-30 ">
+					
+	        			        			<div class="footer-logo">
+	        			<a href="https://9thson.com/t-shirt-size-guide-chart/">
+	        			<img src="https://9thson.com/wp-content/uploads/2022/12/9thson-logo-new-2023-1.png" alt="Image">
+	        		</a><br>
+	        		</div>
+	        		  
+					
+		                		                	<p>Reach out to us!</p>
+<p>Whats App Us:<br />
++91 84381 63773</p>
+		                	            </div>
+	        </div>
+						</div>
+			
+							<div class="col-lg-2 col-md-4 col-sm-4">
+					<div id="nav_menu-1" class="footer-widget mb-30 widget_nav_menu"><div class="footer-title"><h2 class="widget-title">About Us</h2></div><nav class="menu-footer-menu-1-container" aria-label="About Us"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://9thson.com/about-us/">About Us</a></li>
+<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://9thson.com/contact-us/">Contact Us</a></li>
+</ul></nav></div>				</div>
+			
+							<div class="col-lg-2 col-md-4 col-sm-4">
+					<div id="nav_menu-2" class="footer-widget mb-30 widget_nav_menu"><div class="footer-title"><h2 class="widget-title">Help Link</h2></div><nav class="menu-footer-menu-2-container" aria-label="Help Link"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-4172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4172"><a href="https://9thson.com/shipping-policy/">Shipping Policy</a></li>
+<li id="menu-item-779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-779"><a href="https://9thson.com/return-policy/">Returns Policy</a></li>
+<li id="menu-item-3997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3997"><a href="https://9thson.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-780"><a href="https://9thson.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-781" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-781"><a href="https://9thson.com/t-shirt-size-guide-chart/" aria-current="page">Size guide</a></li>
+<li id="menu-item-782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-782"><a href="https://9thson.com/faq/">FAQs</a></li>
+</ul></nav></div>				</div>
+			
+							<div class="col-lg-2 col-md-6 col-sm-6">
+					<div id="nav_menu-3" class="footer-widget mb-30 widget_nav_menu"><div class="footer-title"><h2 class="widget-title">Follow Us</h2></div><nav class="menu-footer-menu-3-container" aria-label="Follow Us"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a href="https://www.facebook.com/9thsoncom/">Facebook</a></li>
+<li id="menu-item-784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a href="https://twitter.com/intent/follow?source=followbutton&#038;variant=1.0&#038;screen_name=9thsoncom">Twitter</a></li>
+<li id="menu-item-785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-785"><a href="https://www.instagram.com/9thson_com/">Instagram</a></li>
+<li id="menu-item-786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-786"><a href="https://www.youtube.com/channel/UCddDDvKIRLgGGPw6xUlgkYw">Youtube</a></li>
+</ul></nav></div>				</div>
+			
+							<div class="col-lg-4 col-md-6 col-sm-6 last">
+					<div id="mc4wp_form_widget-4" class="footer-widget mb-30 widget_mc4wp_form_widget"><div class="footer-title"><h2 class="widget-title">Newsletter</h2></div><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.12 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-599" method="post" data-id="599" data-name="Flone Mailchimp" ><div class="mc4wp-form-fields"><p class="subscribe-style">
+	Get E-mail updates about our latest shop and special offers.
+</p>
+<div class="subscribe-form">
+  <input type="email" name="EMAIL" placeholder="Your email address" required />
+  <div class="clear-2">
+    <input class="button" type="submit" value="Subscribe" />
+  </div>
+</div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1673029338" /><input type="hidden" name="_mc4wp_form_id" value="599" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>				</div>
+					</div>
+	</div>
+</footer><!-- #colophon -->
+
+	<div class="footer-bottom text-center">
+		<div class="container">
+			<div class="copyright">
+				<p>Copyright &copy; 2022 .All Rights Reserved.</p>
+			</div>
+		</div>
+	</div>
+
+</div><!-- #page -->
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><div class="woocommerce" id="htwlquick-viewmodal"><div class="htwl-modal-dialog product"><div class="htwl-modal-content"><button type="button" class="htcloseqv"><span class="sli sli-close"><span class="woolentor-placeholder-remove">X</span></span></button><div class="htwl-modal-body"></div></div></div></div><script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/2f36b67ffe591632e2a97f851/cdc40797ce27e74e2f659c43b.js");</script>            <script>
+                jQuery( document ).ready( function( $ ) {
+
+                    var notposition = 'bottomleft',
+                        notlayout = ' '+'imageleft';
+
+                    $('body').append('<div class="wcsales-sale-notification"><div class="wcsales-notification-content '+notposition+notlayout+'"></div></div>');
+
+                    var data = {
+                        action: 'wcsales_purchased_products',
+                        security: 'c1fdc19721',
+                        whatever: 1234
+                    };
+                    var duration = 3000,
+                        intervaltime = 4000,
+                        showing_time = 4000,
+                        inanimation = 'fadeInLeft',
+                        outanimation = 'fadeOutRight',
+                        i = 0;
+
+                    window.setTimeout( function(){
+                        setTimeout( function () { 
+                            $('.wcsales-notification-content').removeClass(inanimation).addClass(outanimation);
+                            i++;
+                        }, showing_time );
+                        $.post(
+                            ajaxurl, 
+                            data,
+                            function( response ){
+                                var wcpobj = $.parseJSON( response );
+                                if( wcpobj.length > 0 ){
+                                    wc_notification_loop_start( wcpobj );
+                                }
+                            }
+                        );
+                    }, duration );
+
+                    // Close Button
+                    $('.wcsales-notification-content').on('click', '.wccross', function(e){
+                        e.preventDefault()
+                        $(this).closest('.wcsales-notification-content').removeClass(inanimation).addClass(outanimation);
+                    });
+
+                    function wc_notification_loop_start( wcpobj ){
+                        var interval = parseInt( intervaltime ) + parseInt( showing_time );
+                        setInterval(function ( wcpobj ) {
+                            if( i == wcpobj.length ){ i = 0; }
+                            $('.wcsales-notification-content').html('');
+                            $('.wcsales-notification-content').css('padding','15px');
+                            var ordercontent = `<div class="wcnotification_image"><img src="${wcpobj[i].image}" alt="${wcpobj[i].name}" /></div>
+                                <div class="wcnotification_content">
+                                    <h4><a href="${wcpobj[i].url}">${wcpobj[i].name}</a></h4>
+                                    <p>${wcpobj[i].buyer.city + ' ' + wcpobj[i].buyer.state + ', ' + wcpobj[i].buyer.country }.</p>
+                                    <h6>Price : ${wcpobj[i].price}</h6>
+                                    <span class="wcsales-buyername">By ${wcpobj[i].buyer.fname + ' ' + wcpobj[i].buyer.lname}</span>
+                                </div>
+                                <span class="wccross">&times;</span>`;
+                            $('.wcsales-notification-content').append( ordercontent ).addClass('animated '+inanimation).removeClass(outanimation);
+
+                            var notification = wcpobj;
+                            if ( notification != undefined ) {
+                                setTimeout( function () { 
+                                    $('.wcsales-notification-content').removeClass(inanimation).addClass(outanimation);
+                                    i++;
+                                }, showing_time );
+                            }
+                        }, interval, wcpobj );
+                    }
+
+                });
+            </script>
+        			<!-- Facebook Pixel Code -->
+			<noscript>
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt="fbpx"
+					src="https://www.facebook.com/tr?id=139970591611775&ev=PageView&noscript=1"
+				/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+				<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://9thson.com/wp-content/plugins/slider-revolution/public/assets/css/rs6.css?ver=6.6.5' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<script id='ce4wp_form_submit-js-extra'>
+var ce4wp_form_submit_data = {"siteUrl":"https:\/\/9thson.com","url":"https:\/\/9thson.com\/wp-admin\/admin-ajax.php","nonce":"33ef56bf4c","listNonce":"a56c30c679","activatedNonce":"c2c184bcf3"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1671424128' id='ce4wp_form_submit-js'></script>
+<script src='https://9thson.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0' id='jquery-selectBox-js'></script>
+<script src='//9thson.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6' id='prettyPhoto-js'></script>
+<script id='jquery-yith-wcwl-js-extra'>
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"","ajax_loader_url":"https:\/\/9thson.com\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","time_to_close_prettyphoto":"3000","fragments_index_glue":".","reload_on_found_variation":"1","mobile_media_query":"768","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies on your browser are enabled.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Product added to cart successfully<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"},"nonce":{"add_to_wishlist_nonce":"548599fabd","remove_from_wishlist_nonce":"791794c0f9","reload_wishlist_and_adding_elem_nonce":"d91e2f4c8e","load_mobile_nonce":"bd39d75868","delete_item_nonce":"31e8477bef","save_title_nonce":"7bf7f1f179","save_privacy_nonce":"5fba6d4444","load_fragments_nonce":"99832f7963"}};
+</script>
+<script src='https://9thson.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.16.0' id='jquery-yith-wcwl-js'></script>
+<script src='https://9thson.com/wp-content/plugins/woolentor-addons/woolentor-blocks/src/assets/js/script.js?ver=2.5.2' id='woolentor-block-main-js'></script>
+<script src='https://9thson.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/9thson.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2' id='contact-form-7-js'></script>
+<script src='https://9thson.com/wp-content/plugins/flone-core/inc/currency/js/jquery-cookie.js?ver=6.1.1' id='jquery-cookie-js'></script>
+<script src='https://9thson.com/wp-content/plugins/flone-core/inc/currency/js/active.js?ver=6.1.1' id='flone-currency-active-js'></script>
+<script src='https://9thson.com/wp-content/plugins/ht-slider-for-elementor/assets/js/slick.min.js?ver=1.3.9' id='slick-js'></script>
+<script src='https://9thson.com/wp-content/plugins/slider-revolution/public/assets/js/rbtools.min.js?ver=6.6.5' defer async id='tp-tools-js'></script>
+<script src='https://9thson.com/wp-content/plugins/slider-revolution/public/assets/js/rs6.min.js?ver=6.6.5' defer async id='revmin-js'></script>
+<script src='https://9thson.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.2.2' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/9thson.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.2.2' id='wc-add-to-cart-js'></script>
+<script src='https://9thson.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.2.2' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.2.2' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_4faa87534d1badd36860ac8ce2cb5d34","fragment_name":"wc_fragments_4faa87534d1badd36860ac8ce2cb5d34","request_timeout":"5000"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.2.2' id='wc-cart-fragments-js'></script>
+<script id='thickbox-js-extra'>
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/9thson.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script>
+<script src='https://9thson.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
+<script src='https://9thson.com/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://9thson.com/wp-includes/js/wp-util.min.js?ver=6.1.1' id='wp-util-js'></script>
+<script id='wp-api-request-js-extra'>
+var wpApiSettings = {"root":"https:\/\/9thson.com\/wp-json\/","nonce":"bd4ec72fa8","versionString":"wp\/v2\/"};
+</script>
+<script src='https://9thson.com/wp-includes/js/api-request.min.js?ver=6.1.1' id='wp-api-request-js'></script>
+<script src='https://9thson.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://9thson.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://9thson.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='https://9thson.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='https://9thson.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7' id='wp-url-js'></script>
+<script src='https://9thson.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311' id='wp-api-fetch-js'></script>
+<script id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://9thson.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "bd4ec72fa8" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://9thson.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id='woo-variation-swatches-js-extra'>
+var woo_variation_swatches_options = {"show_variation_label":"1","clear_on_reselect":"","variation_label_separator":":","is_mobile":"","show_variation_stock":"","stock_label_threshold":"5","cart_redirect_after_add":"no","enable_ajax_add_to_cart":"yes","cart_url":"https:\/\/9thson.com\/cart\/","is_cart":""};
+</script>
+<script src='https://9thson.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1671424136' id='woo-variation-swatches-js'></script>
+<script src='https://9thson.com/wp-content/plugins/woolentor-addons/assets/js/accordion.min.js?ver=2.5.2' id='woolentor-accordion-min-js'></script>
+<script id='yith-woocompare-main-js-extra'>
+var yith_woocompare = {"ajaxurl":"\/?wc-ajax=%%endpoint%%","actionadd":"yith-woocompare-add-product","actionremove":"yith-woocompare-remove-product","actionview":"yith-woocompare-view-table","actionreload":"yith-woocompare-reload-product","added_label":"Added","table_title":"Product Comparison","auto_open":"yes","loader":"https:\/\/9thson.com\/wp-content\/plugins\/yith-woocommerce-compare\/assets\/images\/loader.gif","button_text":"Compare","cookie_name":"yith_woocompare_list","close_label":"Close"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js?ver=2.22.0' id='yith-woocompare-main-js'></script>
+<script src='https://9thson.com/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js?ver=1.4.21' id='jquery-colorbox-js'></script>
+<script id='mailchimp-woocommerce-js-extra'>
+var mailchimp_public_data = {"site_url":"https:\/\/9thson.com","ajax_url":"https:\/\/9thson.com\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"en","allowed_to_set_cookies":"1"};
+</script>
+<script src='https://9thson.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.7.6.01' id='mailchimp-woocommerce-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/bootstrap.min.js?ver=6.1.1' id='bootstrap-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/meanmenu.js?ver=2.0.8' id='meanmenu-jquery-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/jquery-package.js?ver=1.0.0' id='flone-jquery-package-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/jquery.scrollUp.min.js?ver=2.4.1' id='jquery-scrollUp-js'></script>
+<script src='https://9thson.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script id='flone-main-js-extra'>
+var flone_localize_vars = {"ajaxurl":"https:\/\/9thson.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/main.js?ver=1.0.0' id='flone-main-js'></script>
+<script src='https://9thson.com/wp-content/themes/flone/assets/js/navigation.js?ver=1.0.0' id='flone-navigation-js'></script>
+<script src='https://9thson.com/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.45' id='the_champ_ss_general_scripts-js'></script>
+<script src='https://9thson.com/wp-content/plugins/super-socializer/js/front/social_login/common.js?ver=7.13.45' id='the_champ_sl_common-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script src='https://9thson.com/wp-includes/js/jquery/ui/selectmenu.min.js?ver=1.13.2' id='jquery-ui-selectmenu-js'></script>
+<script id='wc-add-to-cart-variation-js-extra'>
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+</script>
+<script src='https://9thson.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.2.2' id='wc-add-to-cart-variation-js'></script>
+<script defer src='https://9thson.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.12' id='mc4wp-forms-api-js'></script>
+
+</body>
+
+</html>
+<!-- Page supported by LiteSpeed Cache 5.3.1 on 2023-01-06 18:22:18 -->

@@ -1,0 +1,42 @@
+
+.styleproducts{
+    margin-top:10px;
+   
+}
+.OrderDataDiv{
+    display: flex;
+      flex-wrap: wrap;
+        scroll-snap-align: start;
+}
+.date_heading{
+color: #fbfbfb;
+display:flex;
+justify-content: space-evenly;
+    text-align: center;
+  background: rgb(255,93,137);
+background: linear-gradient(270deg, rgba(255,93,137,1) 0%, rgba(9,36,121,1) 47%, rgba(255,93,137,1) 100%);
+    width: 100%;
+        margin: auto;
+}
+/* .displayTime{
+    
+} */
+.OrdersDiv{
+    width: 100%;
+    padding: 8px;
+    
+}
+.Card-Container{
+    width: 16rem;
+}
+@media only screen and (max-width: 550px) {
+    .card{
+        width: 16rem;
+       
+    }
+    .OrderDataDiv{
+        flex-wrap: nowrap;
+            overflow-x: scroll;
+    }
+     
+}

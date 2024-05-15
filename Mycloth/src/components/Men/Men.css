@@ -1,0 +1,373 @@
+.Main_container{
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    top:6rem;
+    margin-top:-107px;
+}
+.Card-Container{
+    border: 1px solid whitesmoke;
+    border-radius: 30px;
+   
+cursor: pointer;
+}
+.Card-Container:hover{
+box-shadow: 0 2px 4px -2px rgb(17 19 20 / 12%), 0 2px 8px rgb(17 19 20 / 12%);
+    z-index: 0.6;
+}
+.BrandName{
+    color: #2c6e49;
+
+    font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        -webkit-letter-spacing: -0.1px;
+        -moz-letter-spacing: -0.1px;
+        -ms-letter-spacing: -0.1px;
+        letter-spacing: -0.1px;
+}
+.category{
+    color:#f08080;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    font-weight: bold;
+    letter-spacing: 0;
+}
+.originalPrice{
+font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+ 
+    letter-spacing: -0.1px;
+
+}
+.discountPrice{
+    font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        -webkit-letter-spacing: -0.1px;
+        -moz-letter-spacing: -0.1px;
+        -ms-letter-spacing: -0.1px;
+        letter-spacing: -0.1px;
+}
+.shopingCart{
+    padding: 6px;
+    margin: 3px;
+border: 1px solid #FEC5BB;
+border-radius: 100%;
+color: whitesmoke;
+   background-color:  #FEC5BB;
+}
+.discount{
+    font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+color: #068743;
+margin-left: 0.25rem;
+        letter-spacing: 0;
+}
+
+
+legend {
+    background-color: #FEC5BB;
+    color: whitesmoke;
+    padding: 5px 10px;
+text-align: center;
+}
+.BrandInput{
+position: relative;
+left:95px;
+top:-16px;
+}
+.Brands_container{
+    padding: 3px;
+    margin: 4px;
+    border: 1px solid rgb(224, 96, 64);
+}
+.categories-container{
+    display:flex;
+    flex-direction: column;
+}
+.BrandsLabel{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.colorProduct{
+    border: 1px solid transparent;
+border-radius: 10px;
+height: 20px;
+}
+
+.product-map-container{
+    width: fit-content;
+    margin:5px;
+}
+
+.Brands-ka-container{
+   padding:10px;
+}
+.Brands-checkbox{
+   position:relative;
+}
+
+.brands-box{
+    border: 1px solid grey;
+    border-radius: 6px;
+    padding: 15px;
+}
+.brands-main{
+    margin-top:20px;
+}.BrandsEachRow{
+    flex-direction: row;
+    padding: 5px;
+    margin: 4px;
+}
+.Brands-container{
+    border: 0.5px solid rgb(223, 217, 217);
+    border-radius: 6px;
+}
+
+.Size-Container{
+    margin-top: 5px;
+    border: 1px solid rgb(223, 217, 217);
+    border-radius: 6px;
+}
+.Price-Box{
+margin: 'auto';
+        display: 'block';
+        width: 'fit-content';
+        padding: 4px;
+        /* border:1px solid rgb(223, 217, 217); */
+        /* border-radius: 6px; */
+}
+.minRange,.maxRange{
+    border: 1px solid rgb(223, 217, 217);
+    width:50px;
+    padding: 5px;
+    text-align: center;
+    margin: 4px;
+    border-radius: 2px;
+
+}
+.rangeShow{
+        display: flex;
+            flex-direction: row;
+        justify-content: space-evenly;
+}
+.priceApply{
+    border: 1px solid rgb(223, 217, 217);
+border-radius: 4px;
+padding: 5px;
+margin: 5px;
+}
+.priceApply:hover{
+    background-color: rgb(223, 51, 51);
+    color:whitesmoke;
+}
+.range-slider{
+    text-align: center;
+}
+
+.Size-Container{
+    margin-top:20px;
+}
+.sizeInputBox{
+    /* border: 1px solid rgb(223, 217, 217);
+    border-radius: 4px;  */
+    padding: 4px;
+
+}
+.sizeInputRow{
+padding: 4px;
+margin: 4px;
+}
+.ValueSize{
+font-size: medium;
+font-weight: 400;
+}
+.searchboxBrands,.searchboxSize{
+    border: 1px solid rgb(223, 217, 217);
+    border-radius: 4px;
+    padding: 5px;
+}
+.searchboxBrands,.searchboxSize:focus{
+background-origin: padding-box;
+font-style: italic;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.colorShow{
+    
+border: 1px solid rgba(0, 0, 0, 0.582);
+    border-radius: 10px;
+    height: 20px;
+        width: 20px;
+            padding: 4px;
+            margin-right: 10px;
+        
+}
+
+.LinkCSS{
+    text-decoration: none;
+color:black;
+}
+.LinkCSS:hover{
+    color: black;
+ 
+}
+
+.styleproducts{
+    padding:10px;
+}
+
+.views {
+    margin: 1px;
+    padding: 1px;
+        width: fit-content;
+            float: right;
+}
+
+
+
+
+
+
+.filterButton {
+
+    width: fit-content;
+    position: absolute;
+        right: 17px;
+        float: left;
+        top: -4rem;
+        font-style: oblique;
+        height: 2rem;
+        border: 1px solid;
+        z-index: 5;
+        box-shadow: 4px 4px rgb(44 32 32);
+
+}
+.FilterButtonDiv{
+display: none;
+}
+/* .Main_container{
+top: 39px;   
+} */
+.forMobile{
+    display: none;
+    
+}
+.filterButton{
+    display: none;
+
+}
+
+/* For 1200-1400; */
+@media only screen and (max-width: 1400px) {
+.styleproducts{
+position: absolute;
+transition: ease-in-out;
+}
+  .forMobile {
+      display: none;
+  }
+  .filterButton{
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .styleproducts {
+        position: relative;
+        transition: ease-in-out;
+    }
+          .forMobile {
+              display: none;
+          } 
+                        .filterButton {
+                            display: none;
+                        }
+}
+
+@media only screen and (max-width: 770px) {
+    .styleproducts {
+        position: absolute;
+        transition: ease-in-out;
+    }
+    .forMobile{
+        display:none;
+    }
+          .filterButton {
+              display: none;
+          }
+
+}
+@media only screen and (max-width: 550px) {
+.FilterCol{
+display: none;
+}
+.forMobile{
+    display: contents;
+}
+   .filterButton {
+       display: inline;
+   }
+   .Main_container{
+/* position: static; */
+top: 0px;
+
+   }
+}
+
+
+.collapse {
+    visibility: initial;
+}
+
+
+ .product-map-container:hover {
+     -webkit-animation-name: pulse;
+     animation-name: pulse;
+     -webkit-animation-duration: 1s;
+     animation-duration: 1s;
+     -webkit-animation-fill-mode: both;
+     animation-fill-mode: both;
+ }
+
+ @-webkit-keyframes pulse {
+     0% {
+         -webkit-transform: scale3d(1, 1, 1);
+         transform: scale3d(1, 1, 1);
+     }
+
+     50% {
+         -webkit-transform: scale3d(1.05, 1.05, 1.05);
+         transform: scale3d(1.05, 1.05, 1.05);
+     }
+
+     100% {
+         -webkit-transform: scale3d(1, 1, 1);
+         transform: scale3d(1, 1, 1);
+     }
+ }
+
+ @keyframes pulse {
+     0% {
+         -webkit-transform: scale3d(1, 1, 1);
+         transform: scale3d(1, 1, 1);
+     }
+
+     50% {
+         -webkit-transform: scale3d(1.05, 1.05, 1.05);
+         transform: scale3d(1.05, 1.05, 1.05);
+     }
+
+     100% {
+         -webkit-transform: scale3d(1, 1, 1);
+         transform: scale3d(1, 1, 1);
+     }
+ }
+
+
+
+  

@@ -1,0 +1,129 @@
+.Navbar-container{
+border:1px solid #817b7b14;
+padding: 4px;
+display: flex;
+/* position: absolute; */
+/* From https://css.glass */
+    background: rgba(255, 255, 255, 0.2);
+    /* box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); */
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    position: fixed;
+    z-index: 5;
+width: 100%;
+margin-top: 0px;
+}
+.logo{
+  width: 5rem;
+  height: 5rem;
+}
+.Link{
+    margin-top: 10px;
+    position: relative;
+        top: 15px;
+        left: 50px;
+        height: fit-content;
+}
+.nav{
+    position: relative;
+    left: 12rem;
+}
+.NavbarItem{
+    padding: 4px;
+    margin: 4px;
+    margin-left:10px;
+    margin-right:10px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size:23px;
+}
+
+
+
+.shopCart{
+    padding:20px;
+        text-align: center;
+            margin: auto;
+}
+
+.searchBar{
+  
+    border-radius: 4px;
+    padding:5px;
+    border: 1px solid black;
+    margin: auto;
+height: 50px;
+width: 400px;
+background: rgba(255, 255, 255, 0.2);
+    /* box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); */
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(218, 213, 213, 0.3);
+
+}
+.shoppingCart{
+    font-size:large;
+}
+.login{
+    padding: 15px;
+     margin: auto;
+}
+.loginDiv{
+    font-size: 24px;
+color: black;
+}
+.Dropout{
+margin: auto
+}
+.badge {
+    /* display: flex; */
+    position: absolute;
+        top: 14px;
+        right: 11px;
+}
+.LaptopAuthDiv{
+    position: relative;
+        left: 44%;
+}
+.forMobileDropDown {
+    width: 100%;
+   
+}
+.forMobileNav{
+    display:grid;
+height: 50px;
+}
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    align-content: space-around;
+    height: 4rem;
+}
+@media only screen and (max-width: 550px) {
+ 
+.forLaptop {
+    display: none;
+}
+.Navbar-container{
+    height: 10px;
+}
+.badge{
+position: relative;
+    left: 0px;
+    top: -17px;
+
+}
+}
+.comDiv{
+    overflow: auto  ;
+}

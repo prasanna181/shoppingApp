@@ -1,0 +1,144 @@
+.Main_container{
+padding: 10px;
+    margin: 5px;
+    position: relative;
+    top: 6rem;
+/* background-color: #f1f3f6; */
+
+        background-color: #FAE1DD;
+}
+.right_container{
+    
+ padding: 8px;
+ margin: 5px;
+    background:white;
+    position: sticky;
+        border-radius: 2px;
+        min-height: 47px;
+        box-shadow: 0 1px 1px 0 rgb(0 0 0 / 20%);
+}
+
+.left_container{
+    background: white;
+
+}
+.productDetailsHeading{
+display: block;
+    text-transform: uppercase;
+    padding: 13px 24px;
+    min-height: 47px;
+    border-radius: 2px 2px 0 0;
+}
+
+.product-details{
+    padding:8px;
+    font-family: serif;
+    font-weight: bolder;
+}
+.saveForlaterheader{
+    text-align: center;
+}
+.button{
+
+    /* border: 1px solid rgba(22, 21, 21, 0.555); */
+    margin:20px;
+}
+.cartButton{
+    display: flex;
+}
+.button:hover{
+    background-color:black;
+    color:whitesmoke;
+    border-radius: 10px;
+}
+.Prices,.TotalPrice{
+        display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+}
+.dashed-line{
+    border: 1px dotted black;
+}
+.TotalPrice{
+        font-size: medium;
+    font-family: serif;
+    font-weight: bolder;
+    padding: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    
+}
+.place-order{
+    /* position:fixed; */
+ bottom:5px;  
+      border: 1px solid whitesmoke;
+      margin:20px;
+      background-color: white;
+}
+.place-order:hover{
+    background-color:#0a0807;
+    color:white;
+    border-radius: 10px;
+}
+.saveMoney{
+    padding: 4px;
+    margin: 4px;
+    color:green;
+
+    
+}
+.product-row{
+    margin-top: 40px;
+    background-color: white;
+    box-shadow: 10px 5px 5px grey;
+transition: ease-in-out;
+    /* drop-shadow: 10px 5px 5px grey; */
+    
+}
+
+.product-row:hover {
+ 
+    transform:translateX(-2px);
+    /* transform: translateY(3px); */
+
+}
+
+.product-section{
+    font-size:medium;
+        padding-left: 79px;
+        display: flex;
+        padding-top: 0px;
+        width: 20rem;
+        justify-content: space-between;
+    
+        flex-wrap: wrap;
+        flex-direction: column;
+}
+
+.imagecart{
+height: 202px;
+    width: 327px;
+}
+.main-card{
+  row-gap:20px;
+    background: #fae1dd;
+}
+
+.saveforlater{
+    margin:20px;
+}
+
+
+.PlaceOrder{
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+@media (max-width:991px){
+       .adjustremove{
+          margin-left:30px;
+       }
+}
